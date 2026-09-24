@@ -1,0 +1,71 @@
+[
+  {
+    "name": "game-2048",
+    "source": "https://github.com/gabrielecirulli/2048",
+    "commit": "478b6ec346e3787f589e4af751378d06ded4cbbc",
+    "path": "kod/game-2048-wyciag.zip",
+    "license": "MIT",
+    "purpose_pl": "Logika planszy, łączenie kafelków i zapis stanu; bez HTML, stylów i fontów.",
+    "bytes": 11116,
+    "sha256": "f316fda7e853131d89946cd07287650915cb98da82703a0753650d7a81eadf3a",
+    "files": [
+      "js/animframe_polyfill.js",
+      "js/application.js",
+      "js/bind_polyfill.js",
+      "js/classlist_polyfill.js",
+      "js/game_manager.js",
+      "js/grid.js",
+      "js/html_actuator.js",
+      "js/keyboard_input_manager.js",
+      "js/local_storage_manager.js",
+      "js/tile.js",
+      "LICENSE.txt",
+      "README.md"
+    ],
+    "execution_tested": false
+  },
+  {
+    "name": "ecs-lib",
+    "source": "https://github.com/nidorx/ecs-lib",
+    "commit": "e4738e088e4653b6ae37ad5d45cac0d2e00be6d9",
+    "path": "kod/ecs-lib-wyciag.zip",
+    "license": "MIT",
+    "purpose_pl": "Encje, komponenty i systemy; wyciąg kodu, dokumentacji i testów.",
+    "bytes": 52386,
+    "sha256": "ca874b1b363cc386c0e02500ef6267a8944cd6a5494df9e6bfa0499015815248",
+    "files": [
+      "LICENSE",
+      "package-lock.json",
+      "package.json",
+      "README.md",
+      "src/index.ts",
+      "test/ECS.test.d.ts",
+      "test/ECS.test.ts",
+      "test/Iterator.test.d.ts",
+      "test/Iterator.test.ts",
+      "test/mocha.opts",
+      "test/setup.js",
+      "tsconfig.json"
+    ],
+    "execution_tested": false
+  },
+  {
+    "name": "dialogger",
+    "source": "https://github.com/etodd/dialogger",
+    "commit": "95440945dc1c86206c3d2bc3b2056a289d3717be",
+    "path": "kod/dialogger-wyciag.zip",
+    "license": "MIT",
+    "purpose_pl": "Edytor grafu dialogów i eksport JSON; bez bibliotek zewnętrznych i grafik.",
+    "bytes": 8729,
+    "sha256": "9da01391bf5e8349d17b7bdddfe682323bc8c2359bf91ee82037422af6a1062f",
+    "files": [
+      "app.js",
+      "dialogger.js",
+      "index.css",
+      "index.html",
+      "package.json",
+      "README.md"
+    ],
+    "execution_tested": false
+  }
+]

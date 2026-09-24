@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-24",
+  "catalog_occurrences": 3672,
+  "unique_urls": 3378,
+  "asset_archives": 22,
+  "asset_bytes": 61886732,
+  "code_archives": 3,
+  "files_in_archives": 2318,
+  "checks": [
+    "JSON syntax",
+    "Unique entry IDs",
+    "Downloaded file size and SHA-256",
+    "ZIP CRC for all 25 archives",
+    "License note existence",
+    "Local documentation navigation (excluding upstream snapshots and retained source fragments)",
+    "No file >=100 MiB"
+  ],
+  "errors": [],
+  "oversize_files": [],
+  "not_checked": [
+    "Availability and contents of all external URLs",
+    "Import into game engines",
+    "Execution of third-party code"
+  ]
+}

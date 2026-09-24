@@ -1,0 +1,84 @@
+# Multiplayer i sieć
+
+Synchronizacja graczy, stan serwera, opóźnienia i testowanie rozgrywki sieciowej.
+
+[Powrót do katalogu](README.md) · [Pochodzenie i licencje](../zrodla/README.md)
+
+Wpisy pogrupowano według oryginalnych sekcji. Przy nazwach podano odnośniki do konkretnych linii źródła. Status cen i licencji pozostaje niezweryfikowany, chyba że oddzielny manifest pobrań potwierdza konkretny plik.
+
+## sangohan/The-Gamedev-Resource-Mega-List — Programming / Networking
+
+| Zasób | Do czego służy / opis źródłowy | Źródło |
+|---|---|---|
+| [A bunch of articles on netcode for games](<https://gafferongames.com/>) | A bunch of articles on netcode for games | [linia 354](https://github.com/sangohan/The-Gamedev-Resource-Mega-List/blob/f428e794165ef9f346f1a44fbd64c9b8532a7cf9/README.md#L354) |
+| [Deterministic Netcode](<https://yal.cc/preparing-your-game-for-deterministic-netcode/>) | Deterministic Netcode | [linia 360](https://github.com/sangohan/The-Gamedev-Resource-Mega-List/blob/f428e794165ef9f346f1a44fbd64c9b8532a7cf9/README.md#L360) |
+
+## FronkonGames/Awesome-Gamedev — Code
+
+| Zasób | Do czego służy / opis źródłowy | Źródło |
+|---|---|---|
+| [Client side network DO’s and DON’Ts for Game Engine Developers](<http://ithare.com/64-network-dos-and-donts-for-game-engine-developers-part-i-client-side/>) | Client side network DO’s and DON’Ts for Game Engine Developers (link) | [linia 189](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L189) |
+| [What every programmer needs to know about game networking](<http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/>) | What every programmer needs to know about game networking (link) | [linia 194](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L194) |
+| [Introduction to networked physics](<http://gafferongames.com/networked-physics/introduction-to-networked-physics/>) | Introduction to networked physics (link) | [linia 194](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L194) |
+| [libyojimbo, a source network library](<http://gafferongames.com/2016/07/21/launch-of-libyojimbo/>) | libyojimbo, a source network library (link) | [linia 198](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L198) |
+| [Networking for game programmers](<http://gafferongames.com/networking-for-game-programmers/>) | Networking for game programmers (link) | [linia 200](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L200) |
+| [C# networking](<https://16bpp.net/tutorials/csharp-networking/01>) | C# networking (link) | [linia 200](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L200) |
+| [Awesome articles on server programming for multiplayer games](<http://www.gabrielgambetta.com/client-server-game-architecture.html>) | Awesome articles on server programming for multiplayer games (link) | [linia 216](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L216) |
+| [A comprehensive guide to serverless architecture](<https://www.simform.com/serverless-architecture-guide/>) | A comprehensive guide to serverless architecture (link) | [linia 218](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L218) |
+| [Using neural networks and machine learning to power up a 2D roguelike in Unity](<https://blogs.unity3d.com/es/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/>) | Using neural networks and machine learning to power up a 2D roguelike in Unity (link) | [linia 219](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L219) |
+| [The poor man's netcode](<http://etodd.io/2018/02/20/poor-mans-netcode/>) | The poor man's netcode (link) | [linia 220](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L220) |
+| [Networked physics in VR](<https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/>) | Networked physics in VR (link) | [linia 221](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L221) |
+| [Netcode fundamentals for fast-paced multiplayer games](<https://youtu.be/6WmK9qa2KIg>) | Netcode fundamentals for fast-paced multiplayer games (youtube) | [linia 225](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L225) |
+| [Networking in C++ part #1: MMO Client/Server, ASIO & framework basics](<https://youtu.be/2hNdkYInj4g]>) | Networking in C++ part #1: MMO Client/Server, ASIO & framework basics (youtube) | [linia 228](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L228) |
+| [RPCs, how to make a multiplayer game in Unity 2021.1](<https://www.youtube.com/watch?v=6zBsPSww2u4>) | RPCs, how to make a multiplayer game in Unity 2021.1 (youtube) | [linia 231](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L231) |
+| [Preparing your game for deterministic netcode](<https://yal.cc/preparing-your-game-for-deterministic-netcode/>) | Preparing your game for deterministic netcode (link) | [linia 232](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L232) |
+| [Networking of a turn-based game](<https://longwelwind.net/blog/networking-turn-based-game/>) | Networking of a turn-based game (link) | [linia 241](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L241) |
+| [Create a server for your Unity game using .NET core](<https://www.youtube.com/watch?v=jLy7A702GhA>) | Create a server for your Unity game using .NET core (youtube) | [linia 244](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L244) |
+| [Designing a Distributed System for an Online Multiplayer Game](<https://theredrad.medium.com/designing-a-distributed-system-for-an-online-multiplayer-game-basics-part-1-17c149245bd2>) | Designing a Distributed System for an Online Multiplayer Game (link) | [linia 244](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L244) |
+| [Building a manageable, headless game server](<https://github.com/CubeCoders/AMP/wiki/Building-a-manageable%2C-headless-game-server>) | Building a manageable, headless game server (link) | [linia 247](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L247) |
+| [How do Video Games Stay in Sync? An intro to the networking of Real Time games](<https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f>) | How do Video Games Stay in Sync? An intro to the networking of Real Time games (link) | [linia 247](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L247) |
+| [Mafia, a Serverless Multiplayer Game](<https://medium.com/@jacksonbowe98/mafia-a-serverless-multiplayer-game-5e15ad64a1fa>) | Mafia, a Serverless Multiplayer Game (link) | [linia 248](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L248) |
+| [How to prevent Cheating and Hacking with proper Client + Server based C# programming](<https://www.youtube.com/watch?v=MFk6x-r6HEw>) | How to prevent Cheating and Hacking with proper Client + Server based C# programming (youtube) | [linia 249](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L249) |
+| [Real-Time game server internals: Basic theory, architecture, optimization, auto-scaling](<https://betterprogramming.pub/real-time-game-server-internals-basic-theory-architecture-optimization-auto-scaling-b2070aa803d9>) | Real-Time game server internals: Basic theory, architecture, optimization, auto-scaling (link) | [linia 251](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L251) |
+| [Multiplayer, multithreading, and an actor model in C++](<https://david-delassus.medium.com/multiplayer-multithreading-and-an-actor-model-in-c-cda2e950d1d8>) | Multiplayer, multithreading, and an actor model in C++ (link) | [linia 253](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L253) |
+| [Building an infinitely scalable multiplayer game](<https://bullet-mania.netlify.app/>) | Building an infinitely scalable multiplayer game (link) | [linia 256](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L256) |
+| [A curated list of Multiplayer Game Network Programming resources](<https://github.com/0xFA11/GameNetworkingResources>) | A curated list of Multiplayer Game Network Programming resources (link) | [linia 262](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L262) |
+| [Everything Multiplayer, from basic network programming, to complex state management](<https://www.youtube.com/watch?v=tG-jepNrz3I>) | Everything Multiplayer, from basic network programming, to complex state management (youtube) | [linia 265](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L265) |
+
+## FronkonGames/Awesome-Gamedev — Organization
+
+| Zasób | Do czego służy / opis źródłowy | Źródło |
+|---|---|---|
+| [How to scale game servers using Agones, Node, and Digital Ocean](<https://medium.com/rolltableapp/scalable-game-servers-using-agones-node-and-digital-ocean-90e6fb9ee5d>) | How to scale game servers using Agones, Node, and Digital Ocean (link) | [linia 317](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L317) |
+| [A self-hosted Git server with CI/CD and Kanban](<https://github.com/theonedev/onedev>) | A self-hosted Git server with CI/CD and Kanban (link) | [linia 328](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L328) |
+
+## FronkonGames/Awesome-Gamedev — Unity
+
+| Zasób | Do czego służy / opis źródłowy | Źródło |
+|---|---|---|
+| [Unity multiplayer survival tutorials](<https://www.youtube.com/playlist?list=PLciOnwoWoI0ufUpMxqW911njO0sqJbbL1>) | Unity multiplayer survival tutorials (youtube) | [linia 364](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L364) |
+| [Multiplayer 2D platformer in Unity](<https://www.youtube.com/playlist?list=PLciOnwoWoI0vhoHZH3DbL4qOdBoDxJCc9>) | Multiplayer 2D platformer in Unity (youtube) | [linia 365](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L365) |
+| [Multiplayer FPS in Unity with Photon](<https://www.youtube.com/playlist?list=PLhsVv9Uw1WzjI8fEBjBQpTyXNZ6Yp1ZLw>) | Multiplayer FPS in Unity with Photon (youtube) | [linia 371](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L371) |
+| [Boss Room, a co-op multiplayer RPG built with Unity Netcode for GameObjects](<https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop>) | Boss Room, a co-op multiplayer RPG built with Unity Netcode for GameObjects (link) | [linia 383](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L383) |
+| [Unity online multiplayer with Netcode](<https://www.youtube.com/watch?v=stJ4SESQwJQ>) | Unity online multiplayer with Netcode (youtube) | [linia 391](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L391) |
+| [Netcode for GameObjects tutorial](<https://youtu.be/3yuBOB3VrCk>) | Netcode for GameObjects tutorial (youtube) | [linia 396](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L396) |
+| [Multiplayer with Netcode: Optimizing Transform synchronisation](<https://www.youtube.com/watch?v=Qo38UVKWknU>) | Multiplayer with Netcode: Optimizing Transform synchronisation (youtube) | [linia 399](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L399) |
+| [Making a multiplayer matchmaker & turn-based game with Firebase](<https://www.youtube.com/watch?v=pjOlGwxYNXs>) | Making a multiplayer matchmaker & turn-based game with Firebase (youtube) | [linia 403](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L403) |
+| [How to get started with Unity Multiplayer](<https://www.youtube.com/watch?v=eymqAMmnqPg>) | How to get started with Unity Multiplayer (youtuve) | [linia 403](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L403) |
+| [Netcode for Game Objects](<https://www.youtube.com/watch?v=3yuBOB3VrCk>) | Netcode for Game Objects (youtube) | [linia 406](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L406) |
+| [Netcode for Game Objects, complete course (+6h)](<https://www.youtube.com/watch?v=7glCsF9fv3s>) | Netcode for Game Objects, complete course (+6h) (youtube) | [linia 407](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L407) |
+| [The ultimate multiplayer Netcode for GameObjects tutorial](<https://www.youtube.com/watch?v=swIM2z6Foxk>) | The ultimate multiplayer Netcode for GameObjects tutorial (youtube) | [linia 408](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L408) |
+| [Build a production-ready multiplayer game with Netcode for GameObjects](<https://blog.unity.com/games/build-a-production-ready-multiplayer-game-with-netcode-for-gameobjects>) | Build a production-ready multiplayer game with Netcode for GameObjects (link) | [linia 409](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L409) |
+| [Building a real-time multiplayer game with Unity3D and Amazon GameLift](<https://betterprogramming.pub/building-a-real-time-multiplayer-game-with-unity3d-and-amazon-gamelift-228f706cfbec>) | Building a real-time multiplayer game with Unity3D and Amazon GameLift (link) | [linia 411](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L411) |
+| [Unity Netcode 100% server authoritative with client prediction and reconciliation](<https://www.youtube.com/watch?app=desktop&v=-lGsuCEWkM0>) | Unity Netcode 100% server authoritative with client prediction and reconciliation (youtube) | [linia 414](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L414) |
+| [P2P or Dedicated Servers? What's the best for your Unity game?](<https://www.youtube.com/watch?v=Tt3ZLHKcP2U>) | P2P or Dedicated Servers? What's the best for your Unity game? (youtube) | [linia 414](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L414) |
+| [Making multiplayer games has never been easier](<https://www.youtube.com/watch?v=PCd3yp_VZ-c>) | Making multiplayer games has never been easier (youtube) | [linia 415](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L415) |
+| [Addressables with loading bar in Unity server AWS](<https://medium.com/@onurkiris05/addressables-with-loading-bar-in-unity-aws-part-1-b382a952ac76>) | Addressables with loading bar in Unity server AWS (link) | [linia 416](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L416) |
+| [Set up a Jenkins server to build Unity projects](<https://github.com/AnhPham/Build-Unity-Projects-with-Jenkins>) | Set up a Jenkins server to build Unity projects (link) | [linia 423](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L423) |
+
+## FronkonGames/Awesome-Gamedev — Unreal
+
+| Zasób | Do czego służy / opis źródłowy | Źródło |
+|---|---|---|
+| [Multiplayer FPS from scratch in 4 hours](<https://youtu.be/H9Y2KJl2dmI>) | Multiplayer FPS from scratch in 4 hours (youtube) | [linia 440](https://github.com/FronkonGames/Awesome-Gamedev/blob/fc0f586ffe178305f9de183900ea21019e4ad5f8/README.md#L440) |
+

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "platformer-art-deluxe",
+    "provider": "kenney",
+    "source": "https://kenney.nl/assets/platformer-art-deluxe",
+    "error": "The read operation timed out",
+    "status": "not_downloaded"
+  },
+  {
+    "name": "topdown-tanks-redux",
+    "provider": "kenney",
+    "source": "https://kenney.nl/assets/topdown-tanks-redux",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+    "status": "not_downloaded"
+  },
+  {
+    "name": "roguelike-characters",
+    "provider": "kenney",
+    "source": "https://kenney.nl/assets/roguelike-characters",
+    "error": "The read operation timed out",
+    "status": "not_downloaded"
+  },
+  {
+    "name": "rpg-urban-pack",
+    "provider": "kenney",
+    "source": "https://kenney.nl/assets/rpg-urban-pack",
+    "error": "The read operation timed out",
+    "status": "not_downloaded"
+  }
+]

@@ -1,0 +1,6 @@
+The Base Mesh: anvil
+CC0 1.0
+Source: https://www.thebasemesh.com/model-library
+License evidence: https://www.thebasemesh.com/faq
+https://creativecommons.org/publicdomain/zero/1.0/
+Verified 2026-09-24. Provenance note; the author publishes models under CC0.

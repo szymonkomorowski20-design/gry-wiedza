@@ -1,0 +1,42 @@
+[
+  {
+    "source": "Pndy/gamedev-list",
+    "commit": "f0ba73073bba5bff3bd4937e0fde27201960f8a7",
+    "catalog_license": "not_declared",
+    "tracked_files": 3,
+    "readme_lines": 1683,
+    "catalog_occurrences": 1238
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "catalog_license": "not_declared",
+    "tracked_files": 5,
+    "readme_lines": 572,
+    "catalog_occurrences": 330
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "catalog_license": "CC-BY-SA-4.0",
+    "tracked_files": 5,
+    "readme_lines": 1195,
+    "catalog_occurrences": 365
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "catalog_license": "MIT",
+    "tracked_files": 5,
+    "readme_lines": 1126,
+    "catalog_occurrences": 195
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "catalog_license": "MIT",
+    "tracked_files": 8,
+    "readme_lines": 720,
+    "catalog_occurrences": 1544
+  }
+]

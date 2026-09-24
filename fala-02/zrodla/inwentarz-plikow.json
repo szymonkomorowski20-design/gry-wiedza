@@ -1,0 +1,184 @@
+[
+  {
+    "source": "Pndy/gamedev-list",
+    "commit": "f0ba73073bba5bff3bd4937e0fde27201960f8a7",
+    "path": "README.md",
+    "bytes": 200865,
+    "sha256": "121c0ca2ef827b033e616c854f37f4cf9197f953b677549db1239c1dea3b3f86"
+  },
+  {
+    "source": "Pndy/gamedev-list",
+    "commit": "f0ba73073bba5bff3bd4937e0fde27201960f8a7",
+    "path": "generator.py",
+    "bytes": 1024,
+    "sha256": "0378facd365ed91722eff90a79ddd3974faa05c6509626261a9247e4fc8c9fee"
+  },
+  {
+    "source": "Pndy/gamedev-list",
+    "commit": "f0ba73073bba5bff3bd4937e0fde27201960f8a7",
+    "path": "mixer.py",
+    "bytes": 859,
+    "sha256": "f98c483ef6abd8cc22e418a3259e84bbb0d374c001ee644f2b4b6bcafe94d565"
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "path": ".github/PULL_REQUEST_TEMPLATE.md",
+    "bytes": 530,
+    "sha256": "fe1ccc6861bc296f01dec58c45840d7bfee60a5a52089e09952087de47c86873"
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "path": ".travis.yml",
+    "bytes": 337,
+    "sha256": "11c6500c7ac3418ae0ba71f29cde8d69f7764d742a239daf8f9a30ed5f4f7ea6"
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "path": "CONTRIBUTING.md",
+    "bytes": 1277,
+    "sha256": "5e253b225469edcc14c6114b8584af58c81479ff9e547566d7ef21f4cd3ba3cc"
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "path": "README.md",
+    "bytes": 41801,
+    "sha256": "64763fcc07b7905a452db5a43b6d26dd53400e6ae82af8b9f2edb3d37a3b9870"
+  },
+  {
+    "source": "Kavex/GameDev-Resources",
+    "commit": "f7c89aae1128fe1ab5f5acaec4c1ab76ee87c7c3",
+    "path": "img/controller.png",
+    "bytes": 39199,
+    "sha256": "270f05647f7069dbbd951e843d1f9311cd1df7b0443db603d786c6eb9dd32d13"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "path": ".pre-commit-config.yaml",
+    "bytes": 170,
+    "sha256": "6797851872004fd55438f434e19c62a104a83560896e9f36e6bbd78bfebee2f2"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "path": "CONTRIBUTING.md",
+    "bytes": 1482,
+    "sha256": "b01d8ebb5ec630ce3921104aaa77cc1eb76ec156070f27bd759585c90f9b95d1"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "path": "LICENSE.md",
+    "bytes": 18710,
+    "sha256": "890d26781b3fc50a702492ff6cb92955c7f8b89c83c5a47f82ebcf5eff233960"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "path": "README.md",
+    "bytes": 57161,
+    "sha256": "8ae39392a3544023b5b6b5c001cc1dfb67c9153bd4f1e982a6eb515ca4495099"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "commit": "a94bf4e18b511a93ae5bd574764b411e721850ae",
+    "path": "wall-of-shame.md",
+    "bytes": 2047,
+    "sha256": "3c15e0af702f3098f48008b3b33ecac8dc9a4bf29b91f362badaf78bc1f8bfa8"
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "path": ".gitattributes",
+    "bytes": 68,
+    "sha256": "d8fb0de4792538f93822b2c0d235604921299d5e54a3d6ec7a6cb34536e8bf1e"
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "path": "LICENSE",
+    "bytes": 1092,
+    "sha256": "7c1b866b12b5c1ab90705aca859e007a99adbc2a52921db61587665996e636f8"
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "path": "README.md",
+    "bytes": 39783,
+    "sha256": "8afa8692f5b693a53fa862a5e62f6ad1a5e8e5c242d9d2f58b05e1f72fe794b4"
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "path": "images/Asriel.png",
+    "bytes": 21995,
+    "sha256": "557f46cdf2719c394e5340bd195fd2f80afa69adefb75a8ea28991f70c1a89bb"
+  },
+  {
+    "source": "sangohan/The-Gamedev-Resource-Mega-List",
+    "commit": "f428e794165ef9f346f1a44fbd64c9b8532a7cf9",
+    "path": "images/KittyIcon.png",
+    "bytes": 93418,
+    "sha256": "48a7d3428b2bfaa0626a9befb6882f1f8f9e8035db970827b74973905e97f1f0"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": ".github/workflows/CheckLinks.yml",
+    "bytes": 561,
+    "sha256": "c7fde4a19ccd60f23a3058538aa3cbe7d1e5096dd45d5bc076cacb2edbd557c7"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": ".gitignore",
+    "bytes": 33,
+    "sha256": "0fd45e6ba1cb7f32af9ba95f372a7a22ce2704dd249a1f5862843125a9ea319b"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "LICENSE",
+    "bytes": 1091,
+    "sha256": "b4c7a4a9ab3c540a56a8e9469b07d768593f6e1a5e05bdbf73a654271c656e84"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "README.md",
+    "bytes": 184095,
+    "sha256": "bafc9c5ed683be9a1dd84a15bcfecfdd1a2cddf16b4c5f7f797e06bb74c8bf5c"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "images/banner.png",
+    "bytes": 1374500,
+    "sha256": "00502a873830bf692e4a68b4119aac1f9e445bb41cb2c3fd50c95709b7314129"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "images/banner.png.meta",
+    "bytes": 2212,
+    "sha256": "16b550769d27f0cf595f4259941e03cb17122d049fa31d899f465fb61ba8afe7"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "images/banner.psd",
+    "bytes": 6878629,
+    "sha256": "0b83590293e88c0bd8592a243c58ec505aeb60f2142e4e729dffc1d67d45ae44"
+  },
+  {
+    "source": "FronkonGames/Awesome-Gamedev",
+    "commit": "fc0f586ffe178305f9de183900ea21019e4ad5f8",
+    "path": "images/banner.psd.meta",
+    "bytes": 2212,
+    "sha256": "8bfac52eeff57a442da77a775ff7b9285e6b3d5acb383ac84854aa620bfff530"
+  }
+]

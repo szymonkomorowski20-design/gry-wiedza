@@ -1,5 +1,11 @@
 # Gry — biblioteka zasobów i wiedzy
 
+## Najnowsza aktualizacja — fala 02
+
+**[Otwórz drugą falę biblioteki](fala-02/README.md)**: pięć kolejnych repozytoriów, ponad 3 tysiące unikalnych adresów w 16 działach, poradniki po polsku, szablony, 22 nowe paczki CC0 i trzy wyciągi kodu MIT. Dodano też indeks dwóch wiki GameDev.tv i opis pozostałych poleconych serwisów.
+
+## Pierwsza fala
+
 Pierwsza fala biblioteki do tworzenia gier, przygotowana 24 września 2026.
 
 - **[Katalog wszystkich 193 wpisów / 177 unikalnych adresów](katalog/README.md)** — grafika, animacje, modele, tekstury, audio, projektowanie i programowanie.

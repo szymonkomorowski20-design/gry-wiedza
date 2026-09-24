@@ -1,0 +1,2151 @@
+[
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 4,
+    "label": "free software",
+    "url": "https://www.fsf.org/about/what-is-free-software",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 5,
+    "label": "free cultural works",
+    "url": "http://freedomdefined.org/Definition",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 69,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 81,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 82,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 85,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 87,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 88,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 90,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 91,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 92,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 103,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 111,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 121,
+    "label": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 126,
+    "label": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 130,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 131,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 159,
+    "label": "Artistic License 2.0",
+    "url": "https://directory.fsf.org/wiki/License:ArtisticLicense2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 160,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 162,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 164,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 165,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 166,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 167,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 168,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 169,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 170,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 171,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 172,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 173,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 175,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 176,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 177,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 179,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 181,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 183,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 185,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 186,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 189,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 190,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 191,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 192,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 193,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 194,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 195,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 196,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 197,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 199,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 200,
+    "label": "EPLv1",
+    "url": "https://directory.fsf.org/wiki/License:EPLv1.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 202,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 203,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 204,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 205,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 206,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 209,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 210,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 214,
+    "label": "NCSA Open Source License",
+    "url": "http://directory.fsf.org/wiki/License:IllinoisNCSA",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 215,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 216,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 217,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 218,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 219,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 221,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 223,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 224,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 227,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 227,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 228,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 230,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 230,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 232,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 234,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 235,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 237,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 239,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 240,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 241,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 242,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 243,
+    "label": "MsPL",
+    "url": "https://directory.fsf.org/wiki/License:MsPL",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 249,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 250,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 251,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 252,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 253,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 255,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 256,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 257,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 258,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 259,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 260,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 261,
+    "label": "ISC",
+    "url": "http://directory.fsf.org/wiki/License:ISC",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 265,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 266,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 267,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 268,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 269,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 271,
+    "label": "Original BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_4Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 272,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 273,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 300,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 301,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 303,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 304,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 307,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 309,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 311,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 312,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 314,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 318,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 320,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 322,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 324,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 327,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 328,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 330,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 331,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 332,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 333,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 334,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 335,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 337,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 338,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 339,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 340,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 341,
+    "label": "ISC",
+    "url": "http://directory.fsf.org/wiki/License:ISC",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 342,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 342,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 343,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 345,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 346,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 347,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 349,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 350,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 352,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 354,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 355,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 357,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 358,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 359,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 364,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 366,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 370,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 371,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 376,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 377,
+    "label": "MPLv2",
+    "url": "https://directory.fsf.org/wiki/License:MPLv2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 379,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 380,
+    "label": "MPLv2",
+    "url": "https://directory.fsf.org/wiki/License:MPLv2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 380,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 381,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 382,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 384,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 385,
+    "label": "GNU AGPLv3",
+    "url": "https://www.gnu.org/licenses/agpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 386,
+    "label": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 388,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 389,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 391,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 392,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 393,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 394,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 395,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 396,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 396,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 397,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 398,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 402,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 404,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 405,
+    "label": "FALv1.3",
+    "url": "https://directory.fsf.org/wiki/License:Free-Art-L-v1.3",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 406,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 409,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 410,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 415,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 415,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 417,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 418,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 419,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 421,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 421,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 423,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 423,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 424,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 426,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 427,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 428,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 429,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 435,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 436,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 438,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 439,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 442,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 444,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 444,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 456,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 458,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 472,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 479,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 480,
+    "label": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 482,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 483,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 484,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 486,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 492,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 492,
+    "label": "CC-BY-SA3",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 493,
+    "label": "CPL 1.0",
+    "url": "https://directory.fsf.org/wiki/License:CPLv1.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 499,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 504,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 508,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 512,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 514,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 516,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 518,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 519,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 520,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 522,
+    "label": "GNU AGPLv3",
+    "url": "https://www.gnu.org/licenses/agpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 524,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 525,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 526,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 527,
+    "label": "Apache2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 528,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 529,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 530,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 536,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 538,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 543,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 547,
+    "label": "GNU AGPLv3",
+    "url": "https://www.gnu.org/licenses/agpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 554,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 555,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 557,
+    "label": "GNU LGPLv3",
+    "url": "https://www.gnu.org/licenses/lgpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 558,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 563,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 575,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 582,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 587,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 593,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 599,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 601,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 608,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 610,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 612,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 612,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 615,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 617,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 619,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 620,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 622,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 624,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 626,
+    "label": "GNU FDL",
+    "url": "https://www.gnu.org/licenses/fdl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 628,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 632,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 633,
+    "label": "GNU FDL",
+    "url": "https://www.gnu.org/licenses/fdl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 634,
+    "label": "CC-BY-SA-3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 636,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 638,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 640,
+    "label": "CC-BY-3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 643,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 646,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 651,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 653,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 655,
+    "label": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 664,
+    "label": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 666,
+    "label": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 675,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 678,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 680,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 683,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 685,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 691,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 692,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 694,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 696,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 698,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 700,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 704,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 705,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 707,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 709,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 713,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 715,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 717,
+    "label": "Apache 2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 719,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 721,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 723,
+    "label": "Apache 2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 725,
+    "label": "Apache 2.0",
+    "url": "https://directory.fsf.org/wiki/License:Apache2.0",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 726,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 729,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 731,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 732,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 734,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 736,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 738,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 740,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 742,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 744,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 746,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 749,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 751,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 753,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 754,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 756,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 767,
+    "label": "3-clause BSD",
+    "url": "https://directory.fsf.org/wiki/License:BSD_3Clause",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 769,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 771,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 775,
+    "label": "GNU LGPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 777,
+    "label": "zlib",
+    "url": "https://directory.fsf.org/wiki/License:Zlib",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 780,
+    "label": "GNU GPLv2",
+    "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 781,
+    "label": "Expat",
+    "url": "https://directory.fsf.org/wiki/License:Expat",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 784,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  },
+  {
+    "source": "mbrukman/awesome-gamedev",
+    "line": 786,
+    "label": "GNU GPLv3",
+    "url": "https://www.gnu.org/licenses/gpl.html",
+    "role": "license_reference"
+  }
+]
