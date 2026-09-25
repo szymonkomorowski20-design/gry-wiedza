@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-25",
+  "new_catalog_entries": 4079,
+  "markdown_catalog_rows": 4079,
+  "asset_archives": 19,
+  "asset_bytes": 225907134,
+  "asset_files_hash_checked": 4150,
+  "asset_hash_overlap_with_previous_waves": 0,
+  "local_markdown_links_checked": 158,
+  "checks": [
+    "All JSON parses",
+    "Canonical URLs unique and absent from waves 01-03 and BAZA-AI link registry",
+    "Every entry has Polish type/purpose and provenance",
+    "Markdown catalog rows equal JSON entries",
+    "All ZIP sizes and SHA-256 match manifest",
+    "Every ZIP extracts; every listed asset hash present",
+    "POCHODZENIE.txt and license file per pack",
+    "No ZIP traversal paths or LFS placeholders",
+    "No asset file repeated from 48 earlier packs (SHA-256)",
+    "Local Markdown navigation",
+    "No file >= 100 MiB"
+  ],
+  "errors": [],
+  "oversize_files": [],
+  "not_checked": [
+    "Availability, licensing and safety of all external targets",
+    "Import of every pack into a game engine",
+    "Execution of downloaded code or applications",
+    "Semantic duplicates at different unrelated URLs",
+    "Quality of individual sounds, models and animations"
+  ]
+}

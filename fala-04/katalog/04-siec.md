@@ -1,0 +1,19 @@
+# Multiplayer i sieć
+
+Synchronizacja graczy, stan serwera, opóźnienia i testowanie rozgrywki sieciowej.
+
+[Wszystkie działy](README.md) · [Źródła i zakres](../zrodla/README.md) · [Opracowania](../wiedza/README.md)
+
+**9 nowych adresów.** Najpierw pozycje z listy zlecenia, potem wpisy z list i baz (alfabetycznie), na końcu repozytoria z tematów GitHuba (wg gwiazdek). Opisy po polsku są własne; krótkie opisy angielskie pochodzą ze źródeł na otwartej licencji lub z metadanych repozytorium. Licencja w tabeli to deklaracja źródła, nie wynik kontroli prawnej.
+
+| Zasób | Typ i opis | Licencja · gwiazdki | Pochodzenie |
+|---|---|---|---|
+| [Basic Multiplayer Unity](<https://github.com/manlaig/basic_multiplayer_unity>) | **Materiał referencyjny**. Fast-Paced UDP Client-Server implementation. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L131>) |
+| [Bomber](<https://github.com/JanSeliv/Bomber>) | **Inspiracje**. Open-source Bomberman multiplayer game made in Unreal Engine 5. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L171>) |
+| [Colyseus Unreal](<https://github.com/charisma-ai/colyseus-unreal>) | **Narzędzie**. Colyseus Multiplayer SDK for Unreal Engine | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L187>) |
+| [Fish Net](<https://fish-networking.gitbook.io/>) | **Narzędzie**. High-performance Unity networking. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L25>) |
+| [Free Networking Resources](<https://github.com/getvmio/free-networking-resources>) | **Sieć i multiplayer** | — | [getvmio/free-game-development-resources](<https://github.com/getvmio/free-game-development-resources/blob/6eb2e0f731e65457d59faa09d09ac9298459bdc8/README.md#L60>) |
+| [Gambetta_Networked Demo](<https://github.com/RamiAhmed/Gambetta_NetworkedDemo>) | **Materiał referencyjny**. Fast-Paced Multiplayer: Sample Code and Live Demo - Gabriel Gambetta''s Multiplayer Network Demo in Unity C# as Networked using Lidgren Network. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L151>) |
+| [GameDev.tv Unreal Multiplayer Master: Video Game Dev In C++ Course](<https://www.gamedev.tv/p/unrealmultiplayer>) | **Tutorial**. Course on building Unreal Engine multiplayer games in C++. | Płatne (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L71>) |
+| [Mirror (GitHub)](<https://github.com/vis2k/Mirror>) | **Narzędzie**. A community replacement for Unity's abandoned UNET Networking System. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L207>) |
+| [Unity Multiplayer Packages](<https://github.com/Unity-Technologies/multiplayer>) | **Materiał referencyjny**. Unity multiplayer packages and samples. | Open source (wg bazy) | [devanshutak25/3d-resources](<https://github.com/devanshutak25/3d-resources/blob/65843e9b770ec52e83bb8986b7ba874b7474e09d/data/07-game-dev/game-dev-networking/01-game-dev-networking.yml#L113>) |

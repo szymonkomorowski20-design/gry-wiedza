@@ -1,6 +1,15 @@
 # Gry — biblioteka zasobów i wiedzy
 
-## Najnowsza aktualizacja — fala 03
+## Najnowsza aktualizacja — fala 04
+
+**[Otwórz czwartą falę](fala-04/README.md)**: dźwięki, animacje, rigging, modele 3D i mega-listy. Zawiera:
+- 19 paczek (225,9 MB): 353 dźwięki, rigi i animacje Mesh2Motion dla 9 typów stworzeń, 267 modeli CC0 Polygonal Mind, 35 skórek UI i wyciągi kodu MIT;
+- 4079 nowych adresów w 17 działach, w tym nowy dział o animacji i riggingu;
+- sześć opracowań po polsku.
+
+Do katalogu weszły wszystkie repozytoria 13 tematów GitHuba, bez 11 repozytoriów wyglądających na piractwo lub malware.
+
+## Fala 03
 
 **[Otwórz trzecią falę](fala-03/README.md)**: 6495 nowych adresów po porównaniu z wcześniejszymi falami, 17 działów, sześć opracowań i 17 nowych paczek CC0 (40.93 MB). Źródła obejmują nowe katalogi, Gisty, profil KayKit i wskazane tematy GitHuba.
 

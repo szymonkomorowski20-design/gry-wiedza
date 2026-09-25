@@ -1,0 +1,15 @@
+Źródło: https://github.com/Mesh2Motion/mesh2motion-app
+Commit: 57315366eea33aa35b737d3c889d50d1f0b11ae0
+Pobrano: 2026-09-25
+Licencja: CC0-1.0
+Zakres: GLB z folderu static/models-variation.
+Zastosowanie: Zrigowane warianty postaci (ludzie, lis, ptak, ryba, kaiju) do testów animacji.
+
+Paczka przygotowana dla biblioteki gry-wiedza (fala 04). Zachowano oryginalne pliki licencji i układ folderów.
+
+
+===== LICENSE-CC0.MD =====
+All 3d models, blend files, rigs, animations
+
+CC0 1.0 Universal
+By marking the work with a CC0 public domain dedication, the creator is giving up their copyright and allowing reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes.

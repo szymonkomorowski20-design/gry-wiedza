@@ -1,0 +1,68 @@
+[
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "feminine/glb/dance/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/dance/readme.md",
+  "sha256": "686861b4c71a0e3e23c4ff908469370ad1571303d6b4a7fa57e0faf76818f352"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "feminine/glb/expression/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/expression/readme.md",
+  "sha256": "24fe0f8cd665dc043959b15b3070a6be9e76e80cf83664b36202d6e70848a52f"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/fbx/dance/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/dance/readme.md",
+  "sha256": "686861b4c71a0e3e23c4ff908469370ad1571303d6b4a7fa57e0faf76818f352"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/fbx/expression/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/expression/readme.md",
+  "sha256": "24fe0f8cd665dc043959b15b3070a6be9e76e80cf83664b36202d6e70848a52f"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/fbx/idle/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/idle/readme.md",
+  "sha256": "15408d546f1ae25a1cc7a1503924d42a92e56c34660cdcb8081c5b4f0a34ecf4"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/fbx/locomotion/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/locomotion/readme.md",
+  "sha256": "3b3ebc615f524adeff5203e16f54baa22f431856f6e7f992d5e054c4fbc4a73d"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/glb/dance/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/dance/readme.md",
+  "sha256": "686861b4c71a0e3e23c4ff908469370ad1571303d6b4a7fa57e0faf76818f352"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/glb/expression/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/expression/readme.md",
+  "sha256": "24fe0f8cd665dc043959b15b3070a6be9e76e80cf83664b36202d6e70848a52f"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/glb/idle/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/idle/readme.md",
+  "sha256": "15408d546f1ae25a1cc7a1503924d42a92e56c34660cdcb8081c5b4f0a34ecf4"
+ },
+ {
+  "source": "readyplayerme/animation-library",
+  "path": "masculine/glb/locomotion/readme.md",
+  "same_as": "fala-04 readyplayerme/animation-library/feminine/fbx/locomotion/readme.md",
+  "sha256": "3b3ebc615f524adeff5203e16f54baa22f431856f6e7f992d5e054c4fbc4a73d"
+ },
+ {
+  "source": "czyzby/gdx-skins",
+  "path": "skin-composer/SourceSansPro.txt",
+  "same_as": "fala-04 czyzby/gdx-skins/biological-attack/SourceSansPro.txt",
+  "sha256": "956019dbe7ec5378f1cee8c524cf02f539356e254d97d3c40e077daa591f97e0"
+ }
+]

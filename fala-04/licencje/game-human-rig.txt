@@ -1,0 +1,49 @@
+Źródło: https://github.com/ostef/Game-Human-Rig
+Commit: 483f7ee62c79849f62b60770d4743e37ce48af09
+Pobrano: 2026-09-25
+Licencja: MIT
+Zakres: Plik .blend oraz podglądy.
+Zastosowanie: Gotowy rig człowieka w Blenderze do animowania postaci pod eksport do silnika.
+
+Paczka przygotowana dla biblioteki gry-wiedza (fala 04). Zachowano oryginalne pliki licencji i układ folderów.
+
+
+===== LICENSE =====
+MIT License
+
+Copyright (c) 2024 Stefan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+===== README.md =====
+# Game Human Rig
+
+![Showcase](showcase.png)
+
+![Sprint Anim](showcase_sprint.gif)
+
+This repository contains a .blend file of two prototyping rigged meshes that should be importable in Unity and Unreal, with a few sample animations.
+
+I did not use Riggify for this because it provides a rig that is not directly usable in your usual game engine (though it can be converted with the help of an [addon](https://github.com/pKrime/Expy-Kit))
+
+The mesh is a modified version of the male and female [Blender demo base mesh](https://www.blender.org/download/demo-files/)
+
+Note that I am not a professional rigger/animator, so this rig can probably be improved in ways I don't know about. Feedback is appreciated!
+

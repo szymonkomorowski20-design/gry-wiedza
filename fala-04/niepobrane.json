@@ -1,0 +1,34 @@
+[
+  {
+    "name": "arnofaure-free-sfx",
+    "source": "https://github.com/arnofaure/free-sfx",
+    "download_url": "https://studionora.ca/Download/s-f-x/Free%20SFX%20Package.zip",
+    "checked_at": "2026-09-25",
+    "reason": "Serwer zwraca stronę HTML (text/html, 32 kB) zamiast archiwum ZIP",
+    "license_claim": "CC-BY-4.0"
+  },
+  {
+    "name": "soundeffectapp/Free-Sound-Effects-Library",
+    "source": "https://github.com/soundeffectapp/Free-Sound-Effects-Library",
+    "checked_at": "2026-09-25",
+    "reason": "Repozytorium nie istnieje (404)"
+  },
+  {
+    "name": "abisoftstudios/Open-Source-Assets",
+    "source": "https://github.com/abisoftstudios/Open-Source-Assets",
+    "checked_at": "2026-09-25",
+    "reason": "Repozytorium nie istnieje (404)"
+  },
+  {
+    "name": "sourcesounds/*",
+    "source": "https://github.com/sourcesounds",
+    "checked_at": "2026-09-25",
+    "reason": "Celowo nie pobrano: dźwięki gier Valve bez licencji, ok. 18 GB"
+  },
+  {
+    "name": "readyplayerme/animation-library",
+    "source": "https://github.com/readyplayerme/animation-library",
+    "checked_at": "2026-09-25",
+    "reason": "Pobrano tylko lokalnie; licencja zabrania redystrybucji — nie publikowano na GitHubie"
+  }
+]

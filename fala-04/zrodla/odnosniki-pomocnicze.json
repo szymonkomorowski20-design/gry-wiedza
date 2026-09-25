@@ -1,0 +1,1154 @@
+[
+ {
+  "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "source": "moutend/SoundEffect",
+  "file": "README.md",
+  "line": 54,
+  "commit": "8800aca50d201dbb5ad90c7b3f92bafd6d2eb635",
+  "section": "LICENSE",
+  "source_url": "https://github.com/moutend/SoundEffect/blob/8800aca50d201dbb5ad90c7b3f92bafd6d2eb635/README.md#L54"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "arnofaure/free-sfx",
+  "file": "README.md",
+  "line": 30,
+  "commit": "43789f4487a830f5d688807e3c051eb36a1651a0",
+  "section": "free-sfx",
+  "source_url": "https://github.com/arnofaure/free-sfx/blob/43789f4487a830f5d688807e3c051eb36a1651a0/README.md#L30"
+ },
+ {
+  "url": "https://github.com/tauri-apps/tauri/issues/10937",
+  "source": "Roboticela/Animator",
+  "file": "README.md",
+  "line": 203,
+  "commit": "ec8e6f9e7763a31a6e45fd4dd84714b341328fc9",
+  "section": "Animator — 3D Model Animation Studio / Prerequisites / Platform-specific (for local builds) / Android (local)",
+  "source_url": "https://github.com/Roboticela/Animator/blob/ec8e6f9e7763a31a6e45fd4dd84714b341328fc9/README.md#L203"
+ },
+ {
+  "url": "https://github.com/Aodaruma/coa_tools2/issues/94",
+  "source": "firebound/proscenio",
+  "file": ".ai/skills/blender-dev.md",
+  "line": 157,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Blender round-trip - re-exports every fixture and diffs against the golden. / Pure-Python image processing",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/.ai/skills/blender-dev.md#L157"
+ },
+ {
+  "url": "https://github.com/Aodaruma/coa_tools2/issues/107",
+  "source": "firebound/proscenio",
+  "file": ".ai/skills/blender-dev.md",
+  "line": 157,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Blender round-trip - re-exports every fixture and diffs against the golden. / Pure-Python image processing",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/.ai/skills/blender-dev.md#L157"
+ },
+ {
+  "url": "https://github.com/Aodaruma/coa_tools2/issues/28",
+  "source": "firebound/proscenio",
+  "file": ".ai/skills/references.md",
+  "line": 94,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "References / Tier 3 - Competitor and prior-art study / Skeleton-based cutout (paradigm-direct)",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/.ai/skills/references.md#L94"
+ },
+ {
+  "url": "https://docs.blender.org/manual/en/latest/animation/actions.html",
+  "source": "firebound/proscenio",
+  "file": "docs/00-guides/02-advanced/02-blender-en.md",
+  "line": 103,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Blender / Recipes / Rename a bone mid-project",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/docs/00-guides/02-advanced/02-blender-en.md#L103"
+ },
+ {
+  "url": "https://docs.blender.org/manual/en/latest/animation/actions.html",
+  "source": "firebound/proscenio",
+  "file": "docs/00-guides/02-advanced/02-blender-pt.md",
+  "line": 103,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Blender / Receitas / Renomeie um osso no meio do projeto",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/docs/00-guides/02-advanced/02-blender-pt.md#L103"
+ },
+ {
+  "url": "https://github.com/psd-tools/psd-tools/blob/main/LICENSE",
+  "source": "firebound/proscenio",
+  "file": "specs/038-reach/STUDY.md",
+  "line": 119,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Spec 038: Reach / Web research: Krita plugin facts and PSD-reading facts / Reading a layered PSD in Python (psd-tools)",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/specs/038-reach/STUDY.md#L119"
+ },
+ {
+  "url": "https://github.com/psd-tools/psd-tools/blob/main/LICENSE",
+  "source": "firebound/proscenio",
+  "file": "specs/038-reach/STUDY.md",
+  "line": 259,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Spec 038: Reach / Sources",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/specs/038-reach/STUDY.md#L259"
+ },
+ {
+  "url": "https://projects.blender.org/blender/blender/issues/118201",
+  "source": "firebound/proscenio",
+  "file": "specs/dropped.md",
+  "line": 55,
+  "commit": "a39a5616ca7719f364205a0ebd8719093f120a79",
+  "section": "Dropped work / Blender UI",
+  "source_url": "https://github.com/firebound/proscenio/blob/a39a5616ca7719f364205a0ebd8719093f120a79/specs/dropped.md#L55"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "Mesh2Motion/mesh2motion-assets",
+  "file": "CC0-packs/psx-lowpoly/source.txt",
+  "line": 8,
+  "commit": "fc9234b8a4309301f6f24065a5d22b61c6edc46e",
+  "section": null,
+  "source_url": "https://github.com/Mesh2Motion/mesh2motion-assets/blob/fc9234b8a4309301f6f24065a5d22b61c6edc46e/CC0-packs/psx-lowpoly/source.txt#L8"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "Mesh2Motion/mesh2motion-assets",
+  "file": "CC0-packs/Quaternius/License.txt",
+  "line": 8,
+  "commit": "fc9234b8a4309301f6f24065a5d22b61c6edc46e",
+  "section": null,
+  "source_url": "https://github.com/Mesh2Motion/mesh2motion-assets/blob/fc9234b8a4309301f6f24065a5d22b61c6edc46e/CC0-packs/Quaternius/License.txt#L8"
+ },
+ {
+  "url": "https://x.com/polygonalmind",
+  "source": "ToxSam/cc0-models-Polygonal-Mind",
+  "file": "README.md",
+  "line": 78,
+  "commit": "56db2d4088512531a070d0bf3eb9d284d077528d",
+  "section": "Open Source 3D Assets — GLB Collection / Links",
+  "source_url": "https://github.com/ToxSam/cc0-models-Polygonal-Mind/blob/56db2d4088512531a070d0bf3eb9d284d077528d/README.md#L78"
+ },
+ {
+  "url": "https://x.com/toxsam",
+  "source": "ToxSam/os3a-gallery",
+  "file": "docs/en/help.md",
+  "line": 22,
+  "commit": "085cf849bd66694c038a46aadf78a5aef37c5373",
+  "section": "Need Help? / Contact",
+  "source_url": "https://github.com/ToxSam/os3a-gallery/blob/085cf849bd66694c038a46aadf78a5aef37c5373/docs/en/help.md#L22"
+ },
+ {
+  "url": "https://x.com/toxsam",
+  "source": "ToxSam/os3a-gallery",
+  "file": "docs/ja/help.md",
+  "line": 22,
+  "commit": "085cf849bd66694c038a46aadf78a5aef37c5373",
+  "section": "ヘルプが必要ですか？ / お問い合わせ",
+  "source_url": "https://github.com/ToxSam/os3a-gallery/blob/085cf849bd66694c038a46aadf78a5aef37c5373/docs/ja/help.md#L22"
+ },
+ {
+  "url": "https://twitter.com/toxsam",
+  "source": "ToxSam/os3a-gallery",
+  "file": "README.ja.md",
+  "line": 166,
+  "commit": "085cf849bd66694c038a46aadf78a5aef37c5373",
+  "section": "開発サーバーを起動 / リンク",
+  "source_url": "https://github.com/ToxSam/os3a-gallery/blob/085cf849bd66694c038a46aadf78a5aef37c5373/README.ja.md#L166"
+ },
+ {
+  "url": "https://twitter.com/toxsam",
+  "source": "ToxSam/os3a-gallery",
+  "file": "README.md",
+  "line": 166,
+  "commit": "085cf849bd66694c038a46aadf78a5aef37c5373",
+  "section": "Run development server / Links",
+  "source_url": "https://github.com/ToxSam/os3a-gallery/blob/085cf849bd66694c038a46aadf78a5aef37c5373/README.md#L166"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/deed",
+  "source": "madjin/awesome-cc0",
+  "file": "README.md",
+  "line": 4,
+  "commit": "ed888579ef78656ca3e0d4d116049a29d218724c",
+  "section": "awesome-cc0",
+  "source_url": "https://github.com/madjin/awesome-cc0/blob/ed888579ef78656ca3e0d4d116049a29d218724c/README.md#L4"
+ },
+ {
+  "url": "https://jangafx.com/software/embergen/download/free-vdb-animations/",
+  "source": "madjin/awesome-cc0",
+  "file": "README.md",
+  "line": 42,
+  "commit": "ed888579ef78656ca3e0d4d116049a29d218724c",
+  "section": "awesome-cc0 / ETC",
+  "source_url": "https://github.com/madjin/awesome-cc0/blob/ed888579ef78656ca3e0d4d116049a29d218724c/README.md#L42"
+ },
+ {
+  "url": "https://search.creativecommons.org/",
+  "source": "madjin/awesome-cc0",
+  "file": "README.md",
+  "line": 51,
+  "commit": "ed888579ef78656ca3e0d4d116049a29d218724c",
+  "section": "awesome-cc0 / Resources",
+  "source_url": "https://github.com/madjin/awesome-cc0/blob/ed888579ef78656ca3e0d4d116049a29d218724c/README.md#L51"
+ },
+ {
+  "url": "https://www.linkedin.com/in/guilhermegraca/",
+  "source": "GuilhermeGraca/blender-warrior-character",
+  "file": "README.md",
+  "line": 161,
+  "commit": "ef9b86b99cda67fdef91554357474d993bf9ac0e",
+  "section": "Contact",
+  "source_url": "https://github.com/GuilhermeGraca/blender-warrior-character/blob/ef9b86b99cda67fdef91554357474d993bf9ac0e/README.md#L161"
+ },
+ {
+  "url": "https://github.com/marketplace/actions/qtmesheditor",
+  "source": "fernandotonon/QtMeshEditor",
+  "file": "README.md",
+  "line": 26,
+  "commit": "4dde460502e23ec185d91f42020478c783e3a32f",
+  "section": "QtMeshEditor / CI/CD — GitHub Actions",
+  "source_url": "https://github.com/fernandotonon/QtMeshEditor/blob/4dde460502e23ec185d91f42020478c783e3a32f/README.md#L26"
+ },
+ {
+  "url": "https://github.com/marketplace/actions/qtmesheditor",
+  "source": "fernandotonon/QtMeshEditor",
+  "file": "README.md",
+  "line": 32,
+  "commit": "4dde460502e23ec185d91f42020478c783e3a32f",
+  "section": "QtMeshEditor / CI/CD — GitHub Actions",
+  "source_url": "https://github.com/fernandotonon/QtMeshEditor/blob/4dde460502e23ec185d91f42020478c783e3a32f/README.md#L32"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "arcade/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Arcade UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/arcade/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "arcade/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Arcade UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/arcade/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "biological-attack/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Biological Attack UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/biological-attack/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "biological-attack/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Biological Attack UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/biological-attack/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "clean-crispy/README.md",
+  "line": 16,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Clean Crispy UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/clean-crispy/README.md#L16"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "clean-crispy/README.md",
+  "line": 28,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Clean Crispy UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/clean-crispy/README.md#L28"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "cloud-form/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Cloud Form UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/cloud-form/README.md#L11"
+ },
+ {
+  "url": "https://opensource.org/licenses/MIT",
+  "source": "czyzby/gdx-skins",
+  "file": "cloud-form/README.md",
+  "line": 14,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Cloud Form UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/cloud-form/README.md#L14"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "cloud-form/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Cloud Form UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/cloud-form/README.md#L23"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "cloud-form/README.md",
+  "line": 35,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Cloud Form UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/cloud-form/README.md#L35"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "comic/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Comic UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/comic/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "comic/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Comic UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/comic/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "commodore64/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Commodore 64 UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/commodore64/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "commodore64/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Commodore 64 UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/commodore64/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "craftacular/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Craftacular UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/craftacular/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "craftacular/README.md",
+  "line": 24,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Craftacular UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/craftacular/README.md#L24"
+ },
+ {
+  "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "expee/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Expee UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/expee/README.md#L10"
+ },
+ {
+  "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "expee/README.md",
+  "line": 26,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Expee UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/expee/README.md#L26"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "extras/chronos/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Chronos UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/extras/chronos/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "extras/chronos/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Chronos UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/extras/chronos/README.md#L23"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "extras/kenney-atlas/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Kenney assets / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/extras/kenney-atlas/README.md#L10"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "flat/README.md",
+  "line": 57,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Flat Theme / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/flat/README.md#L57"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "flat-earth/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Flat Earth UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/flat-earth/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "flat-earth/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Flat Earth UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/flat-earth/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "freezing/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Freezing UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/freezing/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "freezing/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Freezing UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/freezing/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "glassy/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Glassy UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/glassy/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "glassy/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Glassy UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/glassy/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "golden-spiral/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Golden Spiral UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/golden-spiral/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "golden-spiral/README.md",
+  "line": 24,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Golden Spiral UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/golden-spiral/README.md#L24"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "kenney-pixel/README.md",
+  "line": 53,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Kenney Pixel Theme / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/kenney-pixel/README.md#L53"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "level-plane/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Level Plane UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/level-plane/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "level-plane/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Level Plane UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/level-plane/README.md#L23"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "lgdxs/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LGDXS UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/lgdxs/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "lgdxs/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LGDXS UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/lgdxs/README.md#L23"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "lml/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LML theme / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/lml/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "metal/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Metal UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/metal/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "metal/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Metal UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/metal/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "neon/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Neon UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/neon/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "neon/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Neon UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/neon/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "neutralizer/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Neutralizer UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/neutralizer/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "neutralizer/README.md",
+  "line": 28,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Neutralizer UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/neutralizer/README.md#L28"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "number-cruncher/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Number Cruncher UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/number-cruncher/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "number-cruncher/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Number Cruncher UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/number-cruncher/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "orange/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Orange Peel UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/orange/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "orange/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Orange Peel UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/orange/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "pixthulhu/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Pixthulhu UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/pixthulhu/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "pixthulhu/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Pixthulhu UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/pixthulhu/README.md#L23"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "plain-james/README.md",
+  "line": 12,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Plain James UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/plain-james/README.md#L12"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "quantum-horizon/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Quantum Horizon UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/quantum-horizon/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "quantum-horizon/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Quantum Horizon UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/quantum-horizon/README.md#L23"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "rainbow/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Rainbow UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/rainbow/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "rainbow/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Rainbow UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/rainbow/README.md#L22"
+ },
+ {
+  "url": "https://libgdx.com/wiki/tools/texture-packer",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 37,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Unofficial tools you might not know about",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L37"
+ },
+ {
+  "url": "https://libgdx.com/wiki/graphics/2d/scene2d/scene2d",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 63,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L63"
+ },
+ {
+  "url": "https://libgdx.com/wiki/graphics/2d/scene2d/scene2d-ui",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 64,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L64"
+ },
+ {
+  "url": "https://libgdx.com/wiki/graphics/2d/scene2d/table",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 64,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L64"
+ },
+ {
+  "url": "https://libgdx.com/wiki/graphics/2d/scene2d/skin",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 66,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L66"
+ },
+ {
+  "url": "https://libgdx.com/wiki/tools/texture-packer",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 67,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L67"
+ },
+ {
+  "url": "https://libgdx.com/wiki/tools/hiero",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 68,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L68"
+ },
+ {
+  "url": "https://libgdx.com/wiki/graphics/2d/ninepatches",
+  "source": "czyzby/gdx-skins",
+  "file": "README.md",
+  "line": 69,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "LibGDX skins / Additional resources / Helpful articles",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/README.md#L69"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "rusty-robot/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Rusty Robot UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/rusty-robot/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "rusty-robot/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Rusty Robot UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/rusty-robot/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "sgx/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "SGX UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/sgx/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "sgx/README.md",
+  "line": 23,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "SGX UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/sgx/README.md#L23"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "shade/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Shade UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/shade/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "shade/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Shade UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/shade/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "skin-composer/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Skin Composer UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/skin-composer/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "skin-composer/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Skin Composer UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/skin-composer/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "star-soldier/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Star Soldier UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/star-soldier/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "star-soldier/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Star Soldier UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/star-soldier/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "terra-mother/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Terra Mother UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/terra-mother/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "terra-mother/README.md",
+  "line": 21,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Terra Mother UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/terra-mother/README.md#L21"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "tracer/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Tracer UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/tracer/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "tracer/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Tracer UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/tracer/README.md#L22"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "tubular/README.md",
+  "line": 11,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Tubular UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/tubular/README.md#L11"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "tubular/README.md",
+  "line": 21,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "Tubular UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/tubular/README.md#L21"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "vhs/README.md",
+  "line": 10,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "VHS UI",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/vhs/README.md#L10"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/4.0/",
+  "source": "czyzby/gdx-skins",
+  "file": "vhs/README.md",
+  "line": 22,
+  "commit": "9dbebb127a65b395652ff96a1a8a43ca32841eb6",
+  "section": "VHS UI / License",
+  "source_url": "https://github.com/czyzby/gdx-skins/blob/9dbebb127a65b395652ff96a1a8a43ca32841eb6/vhs/README.md#L22"
+ },
+ {
+  "url": "https://github.com/notpresident35/learn-awesome-gamedev/issues",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 58,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / About",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L58"
+ },
+ {
+  "url": "https://www.cyanilux.com/tutorials/intro-to-shader-graph/",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 421,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Technical Art / Shaders",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L421"
+ },
+ {
+  "url": "https://www.cyanilux.com/contents/",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 424,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Technical Art / Shaders",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L424"
+ },
+ {
+  "url": "https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 453,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Technical Art / VFX",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L453"
+ },
+ {
+  "url": "https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 499,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Art",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L499"
+ },
+ {
+  "url": "https://lawsofux.com/en/",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 692,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Design / UI/UX",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L692"
+ },
+ {
+  "url": "https://twitter.com/chiragmachhar/status/1511446337639927811",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 739,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Audio",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L739"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 851,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Job Hunting and Career",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L851"
+ },
+ {
+  "url": "https://twitter.com/JeanLeggett/status/1354615348071460865",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 887,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Job Hunting and Career",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L887"
+ },
+ {
+  "url": "https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA",
+  "source": "notpresident35/The-Gamedev-Resource-Mega-List",
+  "file": "README.md",
+  "line": 890,
+  "commit": "28e61535a7180f0174242ce0980d9337a7328a02",
+  "section": "Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) / Job Hunting and Career",
+  "source_url": "https://github.com/notpresident35/The-Gamedev-Resource-Mega-List/blob/28e61535a7180f0174242ce0980d9337a7328a02/README.md#L890"
+ },
+ {
+  "url": "https://www.widgetworx.com/projects/sl.html",
+  "source": "teamgravitydev/gamedev-free-resources",
+  "file": "README.md",
+  "line": 40,
+  "commit": "076b1cb70532ae4ca3cef8b5d0910069151d517e",
+  "section": "Ready to go! / Art and Animation / 2D Model",
+  "source_url": "https://github.com/teamgravitydev/gamedev-free-resources/blob/076b1cb70532ae4ca3cef8b5d0910069151d517e/README.md#L40"
+ },
+ {
+  "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/2d/kenney-boardgame-pack.md",
+  "line": 32,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Kenney Board Game Pack / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/2d/kenney-boardgame-pack.md#L32"
+ },
+ {
+  "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/2d/kenney-playing-cards-pack.md",
+  "line": 31,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Kenney Playing Cards Pack / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/2d/kenney-playing-cards-pack.md#L31"
+ },
+ {
+  "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/2d/kenney-puzzle-pack-2.md",
+  "line": 33,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Kenney Puzzle Pack 2 / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/2d/kenney-puzzle-pack-2.md#L33"
+ },
+ {
+  "url": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/2d/simple-icons.md",
+  "line": 29,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Simple Icons / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/2d/simple-icons.md#L29"
+ },
+ {
+  "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/2d/sylly-gem-match-3.md",
+  "line": 30,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Gem Match 3 Set (Sylly) / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/2d/sylly-gem-match-3.md#L30"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/3d/cgbookcase.md",
+  "line": 32,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "cgbookcase / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/3d/cgbookcase.md#L32"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/by/3.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/audio/congusbongus-footsteps-surfaces.md",
+  "line": 32,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Congusbongus Footsteps on Surfaces / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/audio/congusbongus-footsteps-surfaces.md#L32"
+ },
+ {
+  "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/audio/congusbongus-footsteps-surfaces.md",
+  "line": 33,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Congusbongus Footsteps on Surfaces / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/audio/congusbongus-footsteps-surfaces.md#L33"
+ },
+ {
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/audio/incompetech.md",
+  "line": 11,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": null,
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/audio/incompetech.md#L11"
+ },
+ {
+  "url": "https://github.com/fontsource/fontsource/blob/main/LICENSE",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/fonts/fontsource.md",
+  "line": 24,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Fontsource / Notes",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/fonts/fontsource.md#L24"
+ },
+ {
+  "url": "https://jangafx.com/software/embergen/download/free-vdb-animations/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/shaders-vfx/jangafx-free-vdb.md",
+  "line": 4,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": null,
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/shaders-vfx/jangafx-free-vdb.md#L4"
+ },
+ {
+  "url": "http://creativecommons.org/licenses/publicdomain/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "catalog/video/prelinger-archives.md",
+  "line": 35,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Prelinger Archives (Internet Archive) / Evidence",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/catalog/video/prelinger-archives.md#L35"
+ },
+ {
+  "url": "https://spdx.org/licenses/",
+  "source": "TMHSDigital/Free-Game-Dev-Assets",
+  "file": "docs/superpowers/specs/2026-09-24-entry-pages-design.md",
+  "line": 139,
+  "commit": "e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3",
+  "section": "Design: one page per catalog entry / Search engines and AI assistants",
+  "source_url": "https://github.com/TMHSDigital/Free-Game-Dev-Assets/blob/e268ed99e7a23d2bc52f4e3487ec1c0d2d0803d3/docs/superpowers/specs/2026-09-24-entry-pages-design.md#L139"
+ },
+ {
+  "url": "https://www.widgetworx.com/spritelib/",
+  "source": "HotpotDesign/Unity-Game-Assets",
+  "file": "README.md",
+  "line": 50,
+  "commit": "2cd6a641bfeeb2d19159793c19a3f4edb29d7bab",
+  "section": "Unity Game Assets / Sprites",
+  "source_url": "https://github.com/HotpotDesign/Unity-Game-Assets/blob/2cd6a641bfeeb2d19159793c19a3f4edb29d7bab/README.md#L50"
+ }
+]
