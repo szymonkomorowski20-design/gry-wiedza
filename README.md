@@ -1,6 +1,10 @@
 # Gry — biblioteka zasobów i wiedzy
 
-## Najnowsza aktualizacja — fala 02
+## Najnowsza aktualizacja — fala 03
+
+**[Otwórz trzecią falę](fala-03/README.md)**: 6495 nowych adresów po porównaniu z wcześniejszymi falami, 17 działów, sześć opracowań i 17 nowych paczek CC0 (40.93 MB). Źródła obejmują nowe katalogi, Gisty, profil KayKit i wskazane tematy GitHuba.
+
+## Druga fala
 
 **[Otwórz drugą falę biblioteki](fala-02/README.md)**: pięć kolejnych repozytoriów, ponad 3 tysiące unikalnych adresów w 16 działach, poradniki po polsku, szablony, 22 nowe paczki CC0 i trzy wyciągi kodu MIT. Dodano też indeks dwóch wiki GameDev.tv i opis pozostałych poleconych serwisów.
 

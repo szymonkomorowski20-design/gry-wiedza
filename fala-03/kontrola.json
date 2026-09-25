@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-25",
+  "new_catalog_entries": 6495,
+  "duplicate_entries_against_previous_waves": 0,
+  "new_asset_archives": 17,
+  "files_inside_new_archives": 4916,
+  "identical_complete_archives": 0,
+  "asset_hash_overlap_with_previous_packs": 0,
+  "source_files_hash_checked": 824,
+  "checks": [
+    "All JSON parses",
+    "Canonical URLs unique and absent from previous catalogs",
+    "Descriptions and provenance present",
+    "All source text hashes match source Git blobs",
+    "All new ZIP CRCs, sizes and SHA-256",
+    "No complete asset pack repeated",
+    "Licenses present",
+    "No ZIP traversal paths or LFS placeholders",
+    "Local Markdown navigation",
+    "No file >=100 MiB"
+  ],
+  "errors": [],
+  "oversize_files": [],
+  "not_checked": [
+    "Availability, licensing and safety of all external targets",
+    "Semantic duplicates at different unrelated URLs",
+    "Game-engine import or execution of downloaded content"
+  ]
+}

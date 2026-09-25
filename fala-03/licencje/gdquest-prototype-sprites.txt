@@ -1,0 +1,17 @@
+Source: https://github.com/GDQuest/game-sprites
+Commit: ea05c63eb1d88af928d2d9a7445879500c9ece3f
+Download: 2026-09-25
+License: CC0-1.0; original notices included.
+Selection: characters, grid_based and weapons SVG only. Excludes third-party font and Godot theme.
+
+# Free game sprites
+
+A library of Free game assets to prototype your games.
+
+It's easy to find open source sprites with a particular art style online but there are few sets dedicated to prototyping.
+
+This repository is a collection of simple assets you can use to focus on what matters the most in your prototypes: the code and game mechanics.
+
+## License
+
+Everything here is under the [ CC0 - public domain ](https://creativecommons.org/publicdomain/zero/1.0/) license.

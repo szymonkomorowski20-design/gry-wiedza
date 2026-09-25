@@ -1,0 +1,31 @@
+{
+  "new_urls": 6495,
+  "candidate_link_occurrences": 9312,
+  "duplicate_link_occurrences": 2817,
+  "previous_wave_duplicates": 1830,
+  "this_wave_duplicates": 987,
+  "identical_documents_skipped": 346,
+  "models_indexed": 991,
+  "categories": {
+    "05-grafika-2d": 274,
+    "15-katalogi-archiwa": 84,
+    "07-tekstury-shadery": 673,
+    "09-projektowanie": 55,
+    "06-modele-3d": 1240,
+    "03-matematyka-ai-fizyka": 366,
+    "01-silniki": 210,
+    "08-audio": 102,
+    "14-nauka-spolecznosc": 96,
+    "13-marketing-biznes": 35,
+    "02-programowanie": 2210,
+    "16-pozostale": 75,
+    "11-ui-lokalizacja": 122,
+    "12-produkcja-testy": 30,
+    "04-siec": 135,
+    "10-narracja": 9,
+    "17-kod-gier": 779
+  },
+  "sources": 38,
+  "asset_archives": 17,
+  "asset_bytes": 40925241
+}
