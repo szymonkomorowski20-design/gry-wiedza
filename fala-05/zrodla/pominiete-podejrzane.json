@@ -1,0 +1,397 @@
+{
+ "note": "Repozytoria wykluczone z katalogu. Nie pobierać z nich plików. Powody: przynęta z malware (komercyjny program jako darmowy instalator/„pełna wersja”), piractwo, masowe pobieranie cudzej muzyki lub zgrywki dźwięków z gier.",
+ "topic_repos": [
+  {
+   "repo": "JhondyDario/Omnibites",
+   "description": "A retro community for video game soundbites. Lightweight 15‑second MP3 clips, free and ad‑free.",
+   "url": "https://github.com/JhondyDario/Omnibites"
+  },
+  {
+   "repo": "nullscry/khi-dl",
+   "description": "Simple script to download whole album at once from khinsider",
+   "url": "https://github.com/nullscry/khi-dl"
+  },
+  {
+   "repo": "dudanov/python-zophar",
+   "description": "Python asynchronous Zophar's Domain Music library.",
+   "url": "https://github.com/dudanov/python-zophar"
+  },
+  {
+   "repo": "eliotbyte/zophar-downloader",
+   "description": "Zophar's Domain Downloader",
+   "url": "https://github.com/eliotbyte/zophar-downloader"
+  },
+  {
+   "repo": "sxiii/keygen-music",
+   "description": "Keygen Music Opensource Radio Repository",
+   "url": "https://github.com/sxiii/keygen-music"
+  },
+  {
+   "repo": "keygenmusic-tk/keygenmusic-play-button",
+   "description": "Browser extension to play music from keygenmusic.tk ",
+   "url": "https://github.com/keygenmusic-tk/keygenmusic-play-button"
+  },
+  {
+   "repo": "pl4yg3n/pl4yg3n.github.io",
+   "description": "keygen music player website",
+   "url": "https://github.com/pl4yg3n/pl4yg3n.github.io"
+  },
+  {
+   "repo": "ImmutableOctet/coda-scraper",
+   "description": "Small tool to bulk-download the short songs found on Ken \"coda\" Snyder's music blog",
+   "url": "https://github.com/ImmutableOctet/coda-scraper"
+  },
+  {
+   "repo": "OrzGeeker/OrzMusic",
+   "description": "The Chip Audio - Backend and Web Service About KeyGen Music",
+   "url": "https://github.com/OrzGeeker/OrzMusic"
+  },
+  {
+   "repo": "vs-sr-dev/pc-allodsonline-doc",
+   "description": "Allods Online (build 13.505, eng_eu): a byte-level study of 1,186 files and 17,366,372,506 bytes downloaded over BitTorrent. 9,148 of 9,148 SHA-1 pieces verified, 871 of 871 manifest hashes, an archive ownership map closing to zero, 2.88M words, 29 h of sound, and a layer written by the machine it is installed on.",
+   "url": "https://github.com/vs-sr-dev/pc-allodsonline-doc"
+  },
+  {
+   "repo": "minddefenderburn/Sibelius-Ultimate-2026-Pro-Edition",
+   "description": "Sibelius Ultimate — music notation, orchestral scores and playback for composers on Windows.",
+   "url": "https://github.com/minddefenderburn/Sibelius-Ultimate-2026-Pro-Edition"
+  },
+  {
+   "repo": "Civiltestyle/Kontakt-8-Full-Library-Pro-Edition",
+   "description": "Kontakt 8 — industry-standard sampler with factory instrument library, NKS hardware integration and scripting engine for music production on Windows.",
+   "url": "https://github.com/Civiltestyle/Kontakt-8-Full-Library-Pro-Edition"
+  },
+  {
+   "repo": "SparkDistinguish/Serato-DJ-Pro-Commercial-Version",
+   "description": "Windows audio companion: Serato. Organized panels and predictable results after install.",
+   "url": "https://github.com/SparkDistinguish/Serato-DJ-Pro-Commercial-Version"
+  },
+  {
+   "repo": "Viper700pro/Serum-VST-Installer-2024-Free",
+   "description": "A free installer for Serum VST, a powerful synthesizer for music production and sound design. 🎶🎧",
+   "url": "https://github.com/Viper700pro/Serum-VST-Installer-2024-Free"
+  },
+  {
+   "repo": "SponsorCanopy/Audacity-Ultimate-Edition",
+   "description": "Audacity · audio software. Practical Windows workflows with a clear interface and fast local response.",
+   "url": "https://github.com/SponsorCanopy/Audacity-Ultimate-Edition"
+  },
+  {
+   "repo": "spearlordral/Magix-Music-Maker-Software",
+   "description": "Magix Music Maker is a powerful music creation software for beginners and pros, enabling easy music production with high-quality tools. 🎶🎧",
+   "url": "https://github.com/spearlordral/Magix-Music-Maker-Software"
+  },
+  {
+   "repo": "deansorib87lopd/FL-Studio-25-All-Plugins-Edition",
+   "description": null,
+   "url": "https://github.com/deansorib87lopd/FL-Studio-25-All-Plugins-Edition"
+  },
+  {
+   "repo": "CeilingLarkHypnotize/Ableton-Live-Suite-11-Production-Toolkit",
+   "description": null,
+   "url": "https://github.com/CeilingLarkHypnotize/Ableton-Live-Suite-11-Production-Toolkit"
+  },
+  {
+   "repo": "kingmactep506/Magix-Music-Maker-Software",
+   "description": "Magix Music Maker is a powerful music creation software for beginners and pros, enabling easy music production with high-quality tools. 🎶🎧",
+   "url": "https://github.com/kingmactep506/Magix-Music-Maker-Software"
+  },
+  {
+   "repo": "CommissionerExhibit/Logic-Pro-Music-Production-Templates",
+   "description": null,
+   "url": "https://github.com/CommissionerExhibit/Logic-Pro-Music-Production-Templates"
+  },
+  {
+   "repo": "RogueTempoKindle65/serum-workflow-automation",
+   "description": "Technical configuration utility for Serum environment automation.",
+   "url": "https://github.com/RogueTempoKindle65/serum-workflow-automation"
+  },
+  {
+   "repo": "Yarnclaprotect/autotuneprox-workflow-automation",
+   "description": "Technical configuration utility for Auto-Tune Pro X environment automation.",
+   "url": "https://github.com/Yarnclaprotect/autotuneprox-workflow-automation"
+  },
+  {
+   "repo": "charterhellcar304/Nexus-3-Expansion-Pack-2025",
+   "description": "A collection of expansion packs for Nexus 3, enhancing your sound design and music production experience. 🎶🔊",
+   "url": "https://github.com/charterhellcar304/Nexus-3-Expansion-Pack-2025"
+  },
+  {
+   "repo": "scorpio7241/Guitar-Rig-6-Installer-2025",
+   "description": "Guitar Rig 6 installer for high-quality guitar effects, amp simulations, and sound processing. Perfect for music production and guitarists. 🎸🔊",
+   "url": "https://github.com/scorpio7241/Guitar-Rig-6-Installer-2025"
+  },
+  {
+   "repo": "orabaquhov788836/fl-production-studio",
+   "description": "FL Production Studio (2026) is the premier utility for advanced digital audio creation. Experience high-speed beat making and fully optimized tools for elite music production and sound design.",
+   "url": "https://github.com/orabaquhov788836/fl-production-studio"
+  },
+  {
+   "repo": "invasive-cyma980/fl-25.2.5",
+   "description": "Produce music with this repackaged digital audio workstation featuring all core tools, built-in plugins, and support for VST instruments in a streamlined workflow.",
+   "url": "https://github.com/invasive-cyma980/fl-25.2.5"
+  },
+  {
+   "repo": "ZenithStonemason/Free-Ableton-Live-Suite-PRO",
+   "description": null,
+   "url": "https://github.com/ZenithStonemason/Free-Ableton-Live-Suite-PRO"
+  },
+  {
+   "repo": "MonetaryNurture/Magix-Samplitude-Pro-X-2026-Creative-Collection",
+   "description": null,
+   "url": "https://github.com/MonetaryNurture/Magix-Samplitude-Pro-X-2026-Creative-Collection"
+  },
+  {
+   "repo": "SmartCongressman/Adobe-Audition-Studio-Pro",
+   "description": null,
+   "url": "https://github.com/SmartCongressman/Adobe-Audition-Studio-Pro"
+  },
+  {
+   "repo": "mountsalfri963/Ableton-Live-",
+   "description": null,
+   "url": "https://github.com/mountsalfri963/Ableton-Live-"
+  },
+  {
+   "repo": "smokker50/Ableton-Push-Music-Controller",
+   "description": "Ableton Push is a powerful music production controller designed for seamless integration with Ableton Live, offering intuitive control for music creation and live performance. 🎵🎛️",
+   "url": "https://github.com/smokker50/Ableton-Push-Music-Controller"
+  },
+  {
+   "repo": "ExistenceMidwife/Antares-AutoTune-Audio-Processor-Pro",
+   "description": null,
+   "url": "https://github.com/ExistenceMidwife/Antares-AutoTune-Audio-Processor-Pro"
+  },
+  {
+   "repo": "uffgoat94/adobe-audition-pro",
+   "description": "It is a professional-grade digital audio workstation designed for precision waveform editing, complex multitrack mixing, and industry-leading audio restoration for film, broadcast, and podcasting",
+   "url": "https://github.com/uffgoat94/adobe-audition-pro"
+  },
+  {
+   "repo": "Photonofcanal/Native-Instruments-Kontakt-8-Production-Toolkit",
+   "description": null,
+   "url": "https://github.com/Photonofcanal/Native-Instruments-Kontakt-8-Production-Toolkit"
+  },
+  {
+   "repo": "pogriseldape/Adobe-Audition",
+   "description": null,
+   "url": "https://github.com/pogriseldape/Adobe-Audition"
+  },
+  {
+   "repo": "flagmousevilla23/Xfer-Records-Serum",
+   "description": "An advanced wavetable synthesis workspace and digital signal processing (DSP) environment engineered for Xfer Serum. This deployment architecture automates custom wavetable rendering, optimizes multi-oscillator memory allocation, and provides streamlined Python-based utilities to mass-index custom patch libraries.",
+   "url": "https://github.com/flagmousevilla23/Xfer-Records-Serum"
+  },
+  {
+   "repo": "FangWidowEscalator52/Native-Instruments-Kontakt-8-Ultimate-Toolkit",
+   "description": null,
+   "url": "https://github.com/FangWidowEscalator52/Native-Instruments-Kontakt-8-Ultimate-Toolkit"
+  },
+  {
+   "repo": "Sharpderdash/traktor-pro-workflow-automation",
+   "description": "Technical configuration utility for Traktor Pro environment automation.",
+   "url": "https://github.com/Sharpderdash/traktor-pro-workflow-automation"
+  },
+  {
+   "repo": "Cinderyucompact/Antares-Auto-Tune-Studio-Pack",
+   "description": null,
+   "url": "https://github.com/Cinderyucompact/Antares-Auto-Tune-Studio-Pack"
+  },
+  {
+   "repo": "exegex32/Adobe-Audition",
+   "description": null,
+   "url": "https://github.com/exegex32/Adobe-Audition"
+  },
+  {
+   "repo": "xenon3-zings/Roland-Cloud-Suite-Manager-2026",
+   "description": "Roland Cloud – Centralized manager for accessing your full instrument collection and synthesizer plugins on Windows.",
+   "url": "https://github.com/xenon3-zings/Roland-Cloud-Suite-Manager-2026"
+  },
+  {
+   "repo": "SniperHallway/FL-Studio",
+   "description": "FL Studio 25.2.4.5242 for Windows is a powerful DAW for music production, offering advanced features like multi-track recording, mixing, and plugin support.",
+   "url": "https://github.com/SniperHallway/FL-Studio"
+  },
+  {
+   "repo": "linda2394/Sylenth1-Virtual-Synthesizer",
+   "description": "Sylenth1 - Virtual Synthesizer Tool - a highly acclaimed virtual synthesizer by LennarDigital",
+   "url": "https://github.com/linda2394/Sylenth1-Virtual-Synthesizer"
+  },
+  {
+   "repo": "alexlarichev/phantomic-releases",
+   "description": "Official Phantomic installers — multiband sound shaper plugin (VST3/AU) for macOS & Windows by EDM Ghost Production. Free full-featured demo.",
+   "url": "https://github.com/alexlarichev/phantomic-releases"
+  },
+  {
+   "repo": "crazymenmactep93/Ableton-Live-Music-Production",
+   "description": "Ableton Live is a professional digital audio workstation for music production, live performance, and sound design. 🎶🔊",
+   "url": "https://github.com/crazymenmactep93/Ableton-Live-Music-Production"
+  },
+  {
+   "repo": "asdeenner-100px/Serum-FX",
+   "description": "🎛️ Custom Serum presets, wavetables & FL Studio tools — no plugin included, 100% legal & royalty-free.",
+   "url": "https://github.com/asdeenner-100px/Serum-FX"
+  },
+  {
+   "repo": "mudbuildershears/ableton-live-2026",
+   "description": "Ableton Live 2026 for Windows – a professional music production and performance platform for recording, arranging, sound design, beat making, and live performance. Explore powerful tools for MIDI, audio, instruments, effects, sampling, and creative music workflows.",
+   "url": "https://github.com/mudbuildershears/ableton-live-2026"
+  },
+  {
+   "repo": "nutterparakon1/Waves-Plugins-Collection",
+   "description": "Waves Plugins - Powerful Audio Tools",
+   "url": "https://github.com/nutterparakon1/Waves-Plugins-Collection"
+  },
+  {
+   "repo": "ateist20003jc/Sylenth1-VST-Crack-Full",
+   "description": "🎹 Professional Synthesizer VST - Full Version Cracked! All Presets Unlocked - Lifetime License Activation",
+   "url": "https://github.com/ateist20003jc/Sylenth1-VST-Crack-Full"
+  },
+  {
+   "repo": "bigboylux6489/Ableton-Move-Controller",
+   "description": "Ableton Move is a compact and portable MIDI controller designed for seamless integration with Ableton Live, perfect for on-the-go music production and live performances. 🎶",
+   "url": "https://github.com/bigboylux6489/Ableton-Move-Controller"
+  },
+  {
+   "repo": "daile38flypeople/Ableton-Live-Music-Production",
+   "description": "Ableton Live is a professional digital audio workstation for music production, live performance, and sound design. 🎶🔊",
+   "url": "https://github.com/daile38flypeople/Ableton-Live-Music-Production"
+  },
+  {
+   "repo": "tint27font/iZotope-Ozone-10-Mastering-Suite",
+   "description": "Welcome to the official repository for **iZotope Ozone 10**, a comprehensive mastering suite for music producers and audio engineers. With Ozone 10, you can perfect your mixes and make them ready for distribution with industry-standard tools and advanced features. 🎧🎚️",
+   "url": "https://github.com/tint27font/iZotope-Ozone-10-Mastering-Suite"
+  },
+  {
+   "repo": "backjasper1/Cubase-Pro-Music-Production",
+   "description": "Cubase Pro is a professional digital audio workstation for music production, offering advanced tools for audio recording, mixing, and editing. 🎶🎧",
+   "url": "https://github.com/backjasper1/Cubase-Pro-Music-Production"
+  },
+  {
+   "repo": "SniperHallway/FL-Studio-25.2.4.5242-Windows",
+   "description": "FL Studio 25.2.4.5242 for Windows is a powerful DAW for music production, offering advanced features like multi-track recording, mixing, and plugin support.",
+   "url": "https://github.com/SniperHallway/FL-Studio-25.2.4.5242-Windows"
+  },
+  {
+   "repo": "runawaybride26/Cubase-Pro-Music-Production",
+   "description": "Cubase Pro is a professional digital audio workstation for music production, offering advanced tools for audio recording, mixing, and editing. 🎶🎧",
+   "url": "https://github.com/runawaybride26/Cubase-Pro-Music-Production"
+  },
+  {
+   "repo": "73mani1149/FL-25.2.5",
+   "description": "FL 25.2.5 All Plugins Edition with free lifetime updates for Windows.",
+   "url": "https://github.com/73mani1149/FL-25.2.5"
+  }
+ ],
+ "links": [
+  {
+   "url": "https://github.com/adalovelace1304/cubase-score-sync",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/stringibnsing/fl-studio-25.2.4.5242-windows",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/ghoulcodecharge/omnisphere-2-setup",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/pitdereactor/tone2-electra-3-synthesizer",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/forwardvyaentrance/omnisphere-2-complete-synth-library",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/wildcraftsmanfilter/ai-voice-changer-real-time-desktop",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/sniperhallway/fl-studio-windows",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/wtfazz/cubase-tools",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/notewalkermeditate/adobe-audition-installer-pro",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/bahvssjiwh/guitar-rig-6-installer-2025",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/delugebaronpace/ai-voice-changer-real-time-2026",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/mappings-1cheer/omnisphere-sound-design-toolkit",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://github.com/reinforcingstimulusstucco87/omnisphere-2-setup",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "temat GitHuba: sound-design"
+  },
+  {
+   "url": "https://aka.ms/vs/17/release.ltsc.17.4/vs_buildtools.exe",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README Tanz0rz/haxe-fmod"
+  },
+  {
+   "url": "https://keygen.music",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README pazpop/arcadepipe"
+  },
+  {
+   "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README saturnlamoooooooooooooooo/GMExplorer"
+  },
+  {
+   "url": "https://soundshockaudio.com/free-downloads-main",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README 1ci/music-production"
+  },
+  {
+   "url": "https://echosoundworks.com/free-downloads",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README 1ci/music-production"
+  },
+  {
+   "url": "https://github.com/tdub206/serum-preset-generator",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "README Celian-mrc/serum-mcp"
+  },
+  {
+   "url": "https://github.com/loeyyyyy/ai-voice-changer-real-time-2026",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "README delugebaronpace/AI-Voice-Changer-Real-Time"
+  },
+  {
+   "url": "https://github.com/loeyyyyy/ai-voice-changer-real-time-2026",
+   "reason": "przyneta: komercyjny program jako \"wydanie Windows/instalator\"",
+   "found_in": "README delugebaronpace/AI-Voice-Changer"
+  },
+  {
+   "url": "https://littlesounddj.com/lsd/latest/full_version",
+   "reason": "wzorzec adresu (crack/keygen/torrent/.exe itp.) lub linek do wykluczonego repozytorium",
+   "found_in": "README trash80/arduinoboy"
+  }
+ ]
+}

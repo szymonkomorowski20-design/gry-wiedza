@@ -1,0 +1,37 @@
+# Tekstury, rendering, shadery i VFX
+
+Materiały, światło, efekty cząsteczkowe i diagnostyka renderowania.
+
+[Wszystkie działy](README.md) · [Źródła i zakres](../zrodla/README.md) · [Opracowania](../wiedza/README.md)
+
+**27 nowych adresów.** Kolejność: poziom pogłębienia (0 = tematy GitHuba i linki od użytkownika, 1 = linki z ich README, 2 = linki z README repozytoriów poziomu 1), potem gwiazdki. Opis angielski pochodzi z metadanych repozytorium; polski typ i uwagi (⚠) są własne. Licencja w tabeli to deklaracja źródła, nie wynik kontroli prawnej.
+
+| Zasób | Typ i opis | Licencja · gwiazdki | Poziom | Znaleziono w |
+|---|---|---|---:|---|
+| [materialdesigninxaml/materialdesigninxamltoolkit](<https://github.com/materialdesigninxaml/materialdesigninxamltoolkit>) | **Tekstury, materiały PBR, HDRI i shadery**. Google's Material Design in XAML & WPF, for C# & VB.Net. | MIT · ★ 16263 | 1 | README paator/ModuleHelper +1 |
+| [arm-software/astc-encoder](<https://github.com/arm-software/astc-encoder>) | **Tekstury, materiały PBR, HDRI i shadery**. The Arm ASTC Encoder, a compressor command line tool and codec library for the Adaptive Scalable Texture Compression image format. | Apache-2.0 · ★ 1300 | 1 | README Weirenshanxia/DVPL-Mod-Helper |
+| [corrscope/corrscope](<https://github.com/corrscope/corrscope>) | **Tekstury, materiały PBR, HDRI i shadery**. Python program to render wave files into oscilloscope views, featuring advanced correlation-based triggering algorithm | BSD-2-Clause · ★ 755 | 1 | README akaisho/awesome-vgm-tools |
+| [microsoft/fx11](<https://github.com/microsoft/fx11>) | **Tekstury, materiały PBR, HDRI i shadery**. Effects for Direct3D 11 (FX11) is a management runtime for authoring HLSL shaders, render state, and runtime variables together. | MIT · ★ 478 | 1 | README LeeVangraefschepe/LeapGameEngine |
+| [umm/circle_mask_shader](<https://github.com/umm/circle_mask_shader>) | **Tekstury, materiały PBR, HDRI i shadery**. 🔘Circle mask shader for uGUI component | MIT · ★ 32 | 1 | README deokseon/D-BMS |
+| [nekuzaky/mortis3dedit-releases](<https://github.com/nekuzaky/mortis3dedit-releases>) | **Tekstury, materiały PBR, HDRI i shadery**. Public release channel for Mortis 3D Edit, material authoring and 3D texture painting for game artists, on Windows. | ★ 0 | 1 | README Nekuzaky/MortisEcho-releases |
+| [xpsa0421/effecttool](<https://github.com/xpsa0421/effecttool>) | **Tekstury, materiały PBR, HDRI i shadery**. A tool to generate billboard particle systems. | ★ 0 | 1 | README xpsa0421/2D-Game-Engine |
+| [assetstore.unity.com/packages/vfx/particles/blood-gush-73426](<https://assetstore.unity.com/packages/vfx/particles/blood-gush-73426>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README ANoska/Dungeon-Shooter |
+| [assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355](<https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README ANoska/Dungeon-Shooter |
+| [capsule-render.vercel.app/api?type=hollow&color=0:2cb67d,50:7f5af0,100:0d1117&height=140&section=header&text=Aurora&fontSize=38&fontColor=7f](<https://capsule-render.vercel.app/api?type=hollow&color=0:2cb67d,50:7f5af0,100:0d1117&height=140&section=header&text=Aurora&fontSize=38&fontColor=7f5af0&desc=a%20complete%20operating%20system%20running%20in%20your%20browser&descSize=15&descAlignY=72>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README BartoszOsiej/Aurora |
+| [capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README Yacineooak/Synth-Minimalist-Music-Creation-App |
+| [capsule-render.vercel.app/api?type=waving&section=footer&height=140](<https://capsule-render.vercel.app/api?type=waving&section=footer&height=140>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README GareBear99/Free-Dark-Piano-Sound-Kit +1 |
+| [developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D](<https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README SumanthMamidi-MNS/DeepFocus |
+| [docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.3](<https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.3>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README pinchasVaknin/neon-racer |
+| [docs.unity3d.com/Packages/com.unity.shadergraph@17.0/manual/index.html](<https://docs.unity3d.com/Packages/com.unity.shadergraph@17.0/manual/index.html>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README dcardonab/Envelop |
+| [godotshaders.com/author/pend00](<https://godotshaders.com/author/pend00>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README miketvo/classic-games-godot |
+| [godotshaders.com/shader/vhs-and-crt-monitor-effect](<https://godotshaders.com/shader/vhs-and-crt-monitor-effect>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README miketvo/classic-games-godot |
+| [google-research.github.io/self-organising-systems/particle-lenia](<https://google-research.github.io/self-organising-systems/particle-lenia>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README tre-systems/confluon |
+| [joowonpark.net/teachingmaterials](<https://joowonpark.net/teachingmaterials>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README homelessananpat/awesome-music-technology |
+| [jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox](<https://jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README landscape82/awesome-sound-design-resources |
+| [shadertoy.com/view/ttfGzH](<https://shadertoy.com/view/ttfGzH>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README yoyofr/rewamp-app |
+| [unity.com/srp/universal-render-pipeline](<https://unity.com/srp/universal-render-pipeline>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README iberberoglu/MixingEngineerSimulation |
+| [unity.com/srp/Universal-Render-Pipeline](<https://unity.com/srp/Universal-Render-Pipeline>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README Jmmmmjm/ar-virtual-buttons-video-player |
+| [wiki.libsdl.org/SDL_HINT_RENDER_DRIVER?highlight=%28%5CbCategoryDefine%5Cb%29%7C%28CategoryHints%29](<https://wiki.libsdl.org/SDL_HINT_RENDER_DRIVER?highlight=%28%5CbCategoryDefine%5Cb%29%7C%28CategoryHints%29>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 1 | README kieselsteini/PiXL-old |
+| [capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0b12,50:1e2754,100:6c7bbd&section=footer](<https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0b12,50:1e2754,100:6c7bbd&section=footer>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 2 | README garebear99/tizwildinentertainmenthub |
+| [docs.unity3d.com/ScriptReference/Texture2D.PackTextures.html](<https://docs.unity3d.com/ScriptReference/Texture2D.PackTextures.html>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 2 | README davikingcode/unityruntimespritesheetsgenerator |
+| [gametechdev/ispctexturecompressor](<https://github.com/gametechdev/ispctexturecompressor>) | **Tekstury, materiały PBR, HDRI i shadery** | — | 2 | README nesrak1/uabea |

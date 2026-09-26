@@ -1,0 +1,19 @@
+Źródło: https://github.com/kapishdima/soundcn
+Commit: 7cbfbb3f56e8548b81fb26410bdcea657447d087
+Pobrano: 2026-09-26
+Licencja: CC0-1.0
+Zakres: Wszystkie 85 plików audio (zgodnie z liczbą na stronie Kenney).
+Zastosowanie: Krótkie dżingle: wygrana, przegrana, level up, bonus — 8-bit, pizzicato, saksofon, steel drum, uderzenia.
+
+Paczka przygotowana dla biblioteki gry-wiedza (fala 05). Zachowano oryginalne pliki licencji i układ folderów.
+
+===== LICENSE-CC0.txt =====
+Music Jingles
+
+by Kenney Vleugels (www.kenney.nl)
+
+License (Creative Commons Zero, CC0)
+http://creativecommons.org/publicdomain/zero/1.0/
+
+Licencję potwierdzono na stronie https://kenney.nl/assets/music-jingles (2026-09-26).
+Pliki pobrano z repozytorium kapishdima/soundcn, które przechowuje oryginalne paczki Kenney w folderze assets/.

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "reddit r/gamedev cd5zug",
+    "source": "https://www.reddit.com/r/gamedev/comments/cd5zug/where_to_find_opensource_music_and_sound_effects",
+    "checked_at": "2026-09-26",
+    "reason": "Reddit blokuje automatyczne pobieranie (403 dla fetch, przeglądarka odmawia) — treść trzeba wkleić ręcznie"
+  },
+  {
+    "name": "Citedy/game-sounds — sounds/",
+    "source": "https://github.com/Citedy/game-sounds",
+    "checked_at": "2026-09-26",
+    "reason": "Celowo usunięte: dźwięki z gier komercyjnych i Myinstants (wg README autora)"
+  },
+  {
+    "name": "kapishdima/soundcn — kolekcja World of Warcraft",
+    "source": "https://github.com/kapishdima/soundcn",
+    "checked_at": "2026-09-26",
+    "reason": "Celowo usunięte: 110 dźwięków © Blizzard Entertainment, All Rights Reserved"
+  },
+  {
+    "name": "nosoapradio.us",
+    "source": "http://nosoapradio.us",
+    "checked_at": "2026-09-26",
+    "reason": "Domena przejęta (obecnie serwis z „wpłatami i wypłatami”); muzykę DST pobrano z mirrora na GitHubie"
+  },
+  {
+    "name": "JimLynchCodes/Game-Sound-Effects",
+    "source": "https://github.com/JimLynchCodes/Game-Sound-Effects",
+    "checked_at": "2026-09-26",
+    "reason": "Powtórka z fali 04 — nie pobierano ponownie"
+  }
+]

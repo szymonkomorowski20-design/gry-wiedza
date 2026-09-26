@@ -1,0 +1,243 @@
+Źródło: https://github.com/gvastethecreator/game-music-composer
+Commit: 20ed455b9a25886da1b40bb069230dcc2f552921
+Pobrano: 2026-09-26
+Licencja: CC0-1.0
+Zakres: MIDI, resources/original-sample-bank i dwie paczki konsolowe (ZIP w ZIP). Instrumenty są nowe, nie z gier.
+Zastosowanie: 140 plików MIDI utworów, oryginalny bank próbek i paczki instrumentów Mega Drive (YM2612/PSG) i SNES (BRR) do własnych kompozycji.
+
+Paczka przygotowana dla biblioteki gry-wiedza (fala 05). Zachowano oryginalne pliki licencji i układ folderów.
+
+===== LICENSE =====
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+    HEREUNDER.
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator and
+subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for the
+purpose of contributing to a commons of creative, cultural and scientific
+works ("Commons") that the public can reliably and without fear of later
+claims of infringement build upon, modify, incorporate in other works, reuse
+and redistribute as freely as possible in any form whatsoever and for any
+purposes, including without limitation commercial purposes.
+
+These owners may contribute to the Commons to promote the ideal of a free
+culture and the further production of creative, cultural and scientific
+works, or to gain reputation or greater distribution for their Work in part
+through the use and efforts of others.
+
+For these and/or other purposes and motivations, and without any expectation
+of additional consideration or compensation, the person associating CC0 with
+a Work (the "Affirmer"), to the extent that he or she is an owner of
+Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to
+the Work and publicly distribute the Work under its terms, with knowledge of
+his or her Copyright and Related Rights in the Work and the meaning and
+intended legal effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not limited
+to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display,
+     communicate, and translate a Work;
+ ii. moral rights retained by the original author(s) and/or performer(s);
+iii. publicity and privacy rights pertaining to a person's image or
+     likeness depicted in a Work;
+ iv. rights protecting against unfair competition in regards to a Work,
+     subject to the limitations in paragraph 4(a), below;
+  v. rights protecting the extraction, dissemination, use and reuse of data
+     in a Work;
+ vi. database rights (such as those arising under Directive 96/9/EC of the
+     European Parliament and of the Council of 11 March 1996 on the legal
+     protection of databases, and under any national implementation thereof,
+     including any amended or successor version of such directive); and
+vii. other similar, equivalent or corresponding rights throughout the world
+     based on applicable law or treaty, and any national implementations
+     thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention of,
+applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
+unconditionally waives, abandons, and surrenders all of Affirmer's Copyright
+and Related Rights and associated claims and causes of action, whether now
+known or unknown (including existing as well as future claims and causes of
+action), in the Work (i) in all territories worldwide, (ii) for the maximum
+duration provided by applicable law or treaty (including future time
+extensions), (iii) in any current or future medium and for any number of
+copies, and (iv) for any purpose whatsoever, including without limitation
+commercial, advertising or promotional purposes (the "Waiver"). Affirmer
+makes the Waiver for the benefit of each member of the public at large and to
+the detriment of Affirmer's heirs and successors, fully intending that such
+Waiver shall not be subject to revocation, rescission, cancellation,
+termination, or any other legal or equitable action to disrupt the quiet
+enjoyment of the Work by the public as contemplated by Affirmer's express
+Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason be
+judged legally invalid or ineffective under applicable law, then the Waiver
+shall be preserved to the maximum extent permitted taking into account
+Affirmer's express Statement of Purpose. In addition, to the extent the
+Waiver is so judged Affirmer hereby grants to each affected person a
+royalty-free, non transferable, non sublicensable, non exclusive, irrevocable
+and unconditional license to exercise Affirmer's Copyright and Related Rights
+in the Work (i) in all territories worldwide, (ii) for the maximum duration
+provided by applicable law or treaty (including future time extensions),
+(iii) in any current or future medium and for any number of copies, and (iv)
+for any purpose whatsoever, including without limitation commercial,
+advertising or promotional purposes (the "License"). The License shall be
+deemed effective as of the date CC0 was applied by Affirmer to the Work.
+Should any part of the License for any reason be judged legally invalid or
+ineffective under applicable law, such partial invalidity or ineffectiveness
+shall not invalidate the remainder of the License, and in such case Affirmer
+hereby affirms that he or she will not (i) exercise any of his or her
+remaining Copyright and Related Rights in the Work or (ii) assert any
+associated claims and causes of action with respect to the Work, in either
+case contrary to Affirmer's express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+ b. Affirmer offers the Work as-is and makes no representations or warranties
+    of any kind concerning the Work, express, implied, statutory or otherwise,
+    including without limitation warranties of title, merchantability, fitness
+    for a particular purpose, non infringement, or the absence of latent or
+    other defects, accuracy, or the present or absence of errors, whether or
+    not discoverable, all to the greatest extent permissible under applicable
+    law.
+ c. Affirmer disclaims responsibility for clearing rights of other persons
+    that may apply to the Work or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the Work.
+    Further, Affirmer disclaims responsibility for obtaining any necessary
+    consents, permissions or other rights required for any use of the Work.
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+    party to this document and has no duty or obligation with respect to this
+    CC0 or use of the Work.
+
+
+===== game-music-composer/LICENSE-NOTES.md =====
+# License notes
+
+The full [CC0-1.0 legal code](LICENSE) applies to the skill documentation, schemas, scripts, original MIDI composition, procedural example definitions and original sample material in this package, except where third-party project names and linked documentation retain their original ownership and licenses.
+
+No extracted commercial-game samples, ROM data or copyrighted soundtrack melodies are included. The included Factory Bank and `resources/original-sample-bank/` are original or cleared material; inspect `SOURCES.md` before adding new assets.
+
+## Studio Chamber recordings
+
+The Chamber palette and its compact projection include adapted VSCO 2 Community Edition recordings by Versilian Studios / Sam Gossner, released under CC0-1.0. Source: https://versilian-studios.com/vsco-community/ ; pinned upstream revision 440300901dfe9275fd84e0b7763af1f8443ae62e. Per-recording source URLs and hashes are in data/soundbank-provenance.json. Velvet and Circuit synthesis is original project code. Recorded sources are not claimed as project-authored recordings.
+
+
+===== game-music-composer/SOURCES.md =====
+# Sources
+
+## SNES audio architecture
+
+- SNESdev Wiki — S-DSP registers: https://snes.nesdev.org/wiki/S-DSP_registers
+- SNESdev Wiki — S-SMP: https://snes.nesdev.org/wiki/S-SMP
+- SNESdev Wiki — BRR samples: https://snes.nesdev.org/wiki/BRR_samples
+
+## NES audio
+
+- NESdev Wiki — APU: https://www.nesdev.org/wiki/APU
+- VGM 1.61 NES APU clock field: https://vgmrips.net/wiki/VGM_Specification
+
+## SoundFont adapters (not packaged banks)
+
+- FluidSynth: https://github.com/FluidSynth/fluidsynth
+- SpessaSynth (optional Studio preview; copy locally, no CDN; not vendored in the skill ZIP): https://github.com/spessasus/SpessaSynth
+- SoundFont 2 RIFF pdta/phdr: operator-supplied `.sf2` only. This skill does not redistribute private, commercial or game SoundFonts.
+
+## Browser audio
+
+- W3C Web Audio API: https://www.w3.org/TR/webaudio/
+- MDN AudioWorklet: https://developer.mozilla.org/docs/Web/API/AudioWorklet
+
+## MIDI
+
+- MIDI Association — MIDI 2.0: https://midi.org/midi-2-0
+
+## Trackers and expanded retro workflows
+
+- Furnace Tracker: https://github.com/tildearrow/furnace
+
+## Structured and multitrack generation research
+
+- MusicFrameworks: hierarchical structure for music generation, ICLR 2024.
+- Structure-informed generation via section and phrase hierarchy.
+- Multitrack arrangement with explicit track and orchestration representations.
+
+Sources inform architecture. Benchmark: no extracted commercial SNES melodies or samples.
+
+## Arrangement-spec method
+
+- jtydhr88/music-composition-skills: https://github.com/jtydhr88/music-composition-skills
+- MIT covers the six-layer architecture, ARR-SPEC schema/template, backend honors format (`exact` / `hint` / `none`), numbered principles and checklists.
+- NOTICE: book quotations (Adler, Schoenberg, Yang and others), translations, engraved examples, Cambridge-MT measured tables, and named song-generation backends are not relicensed. This skill uses the checklist method only. It does not vendor the 29 Chinese skill bodies, the Suno/YuE2 compile path, or quoted textbook passages.
+
+## Workstation pattern and performance workflows
+
+- FL Studio — Riff Machine: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/pianoroll_riff.htm
+- FL Studio — Piano roll tools: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/pianoroll_menu.htm
+- FL Studio — Arpeggiator: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/pianoroll_arpeggiate.htm
+- FL Studio — Randomizer: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/pianoroll_random.htm
+- FL Studio — Note properties: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/pianoroll.htm
+- FL Studio — Mixer and routing: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/mixer.htm
+- FL Studio — Levels and mixing: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/mixer_levelsandmixing.htm
+- FL Studio — Fruity Limiter: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Fruity%20Limiter.htm
+
+## Symbolic music representation and evaluation
+
+- MusPy: A Toolkit for Symbolic Music Generation — arXiv: https://arxiv.org/abs/2008.01951
+- musicaiz: A Python Library for Symbolic Music Generation, Analysis and Visualization — arXiv: https://arxiv.org/abs/2209.07984
+- MusicFrameworks: hierarchical music structure — ICLR 2024 proceedings.
+- Open Music Theory — jazz voicings: https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/
+- Open Music Theory — chord-scale theory: https://viva.pressbooks.pub/openmusictheory/chapter/chord-scale-theory/
+- Open Music Theory — modal schemas: https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/
+
+Workstation refs mark separations: harmony, progression, arpeggiation, note properties, groove, routing, master controls. Neo-SPC: original data model and interface; no copied application code, presets or proprietary assets.
+
+## Recorded Chamber sources
+
+VSCO 2 Community Edition, Versilian Studios / Sam Gossner: https://versilian-studios.com/vsco-community/ . CC0-1.0. Pinned repository revision: 440300901dfe9275fd84e0b7763af1f8443ae62e. See data/soundbank-provenance.json for the 103 selected recordings, their declared roots and SHA-256 hashes. Fifteen Chamber patch definitions use this subset; repeated mapped zones do not imply independent recorded takes.
+
+## Genre rhythm method
+
+These pages informed groove rules in `genre_composer.py`. No recordings, loops or melodies were copied. Do not read the packs as certified tradition.
+
+- Salsa 2–3 clave: https://en.wikipedia.org/wiki/Clave_(rhythm)
+- Cumbia pulse and scraper: https://en.wikipedia.org/wiki/Cumbia
+- Guitar roles and Dominican bachata background: https://www.iasorecords.com/music/what-is-bachata
+- Bossa nova rhythm: https://en.wikipedia.org/wiki/Bossa_nova
+- Habanera bass (tango): https://en.wikipedia.org/wiki/Habanera_(music)
+- Funk sixteenth guitar and backbeat: https://en.wikipedia.org/wiki/Funk
+- House four-on-the-floor: https://en.wikipedia.org/wiki/House_music
+- Drum and bass break and sub: https://en.wikipedia.org/wiki/Drum_and_bass
+- Synthwave gated drums and analog bass: https://en.wikipedia.org/wiki/Synthwave
+- Lo-fi hop feel: https://en.wikipedia.org/wiki/Lo-fi_music
+- Half-time backbeat, 808 bass and hat-roll vocabulary: https://blog.native-instruments.com/how-to-make-a-trap-beat/
+- Trip hop's played and rearranged drum approach: https://brianfunk.com/blog/trip-hop-drums
+- Metal riff, palm mute and double kick: https://en.wikipedia.org/wiki/Heavy_metal_music
+- Dembow, rhythmic variation and production history: https://daily.redbullmusicacademy.com/2013/07/dembow-a-loop-history/
+
+
+===== game-music-composer-showcase/FACTORY-BANK-LICENSE.md =====
+# License
+
+Neo-SPC Factory Bank v0.1, including generated WAV files, SFZ mappings, JSON manifests and the generator source, is dedicated to the public domain under CC0 1.0.
+
+No samples extracted from commercial games or third-party copyrighted sound libraries are included.
+

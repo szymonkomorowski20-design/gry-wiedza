@@ -1,6 +1,15 @@
 # Gry — biblioteka zasobów i wiedzy
 
-## Najnowsza aktualizacja — fala 04
+## Najnowsza aktualizacja — fala 05
+
+**[Otwórz piątą falę](fala-05/README.md)**: dźwięk, muzyka i audio w grach. Zawiera:
+- 10 paczek (169,6 MB): komplet 8888 efektów 8-bit, 3 nowe paczki Kenney (dżingle, lektor, spiker bijatyk), 140 utworów do gier CC0 z MIDI i instrumentami Mega Drive/SNES, 88 nut fortepianu z pętlami, 8 utworów DST (CC-BY) oraz kod: hooki dźwiękowe dla Claude Code i referencje silników z Claude Code Game Studios;
+- 5128 nowych adresów, audio podzielone na 10 poddziałów (SFX, muzyka, generatory, chiptune, FMOD/Wwise, silniki audio, DAW, pipeline, AI, nauka);
+- sześć opracowań po polsku, m.in. legalne źródła audio i pułapki licencyjne oraz audio w Godocie 4.7.
+
+Z dwóch repozytoriów usunięto dźwięki wycięte z gier komercyjnych, a z katalogu wykluczono 78 przynęt z malware udających programy muzyczne.
+
+## Fala 04
 
 **[Otwórz czwartą falę](fala-04/README.md)**: dźwięki, animacje, rigging, modele 3D i mega-listy. Zawiera:
 - 19 paczek (225,9 MB): 353 dźwięki, rigi i animacje Mesh2Motion dla 9 typów stworzeń, 267 modeli CC0 Polygonal Mind, 35 skórek UI i wyciągi kodu MIT;
