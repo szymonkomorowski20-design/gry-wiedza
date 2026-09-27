@@ -16,7 +16,9 @@ free to use; expression isn't.
 - **[dev]**: a developer talk, interview or blog;
 - **[analysis]**: design journalism or criticism;
 - **[wiki]**: community-documented numbers, not verified against code;
-- **[community]**: forum consensus, the lowest confidence.
+- **[community]**: forum consensus, the lowest confidence;
+- **[measured]**: measured by game-builder's own bot scenarios in its proof game ("Ucieczka z Krypty", 2026). It is
+  one game and one bot, so it shows a mechanism, not a universal number.
 
 The full, researched list of claims with URLs is in the Sources section. Numbers are ranges to start from; the
 playtest (and recipe 36 simulations) decide.
@@ -74,6 +76,13 @@ breaks the "one more try" loop [analysis].
   - Gungeon multiplies *returning* enemy HP per floor (reported ~×1.0 → ×2.1) but keeps **newly introduced** types
     at base HP [community]. Never make a new enemy a stat sponge too.
 - **Spawn telegraph:** enemies appear after a short warning, never on top of the player.
+- **Limit simultaneous attackers ("attack tokens").** An enemy must take a token before its windup, and at most two
+  melee enemies may wind up or strike at once. The others keep circling, and ranged enemies are counted apart.
+  - Measured in game-builder's proof game [measured]: without it, a third chamber with three swarmers, a rusher and a
+    thrower cost a careful bot ~50 of 60 HP, because the tells overlapped. With two tokens it cost ~10.
+  - It is the practical form of "overlapping tells without priority make fights unreadable" (§1).
+- **Cheap bodies are not cheap.** Price a group (three swarmers) by its bodies' combined pressure, not as one enemy,
+  and bring ranged and tank types in a little later than the first new type [measured, same proof game].
 
 ## 3. Build variety (recipe 48)
 - **Rarity tiers plus a synergy tier.** Hades uses Common → Rare → Epic → Heroic/Legendary, plus duo boons that
