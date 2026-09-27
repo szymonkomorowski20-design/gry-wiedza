@@ -1,14 +1,23 @@
 # Gry — biblioteka zasobów i wiedzy
 
-## game-builder — bot do tworzenia gier w Godocie
+To repozytorium jest **biblioteką**: wiedzą, katalogami i legalnymi paczkami assetów do tworzenia gier. Narzędzie,
+które z niej korzysta, czyli plugin **game-builder** do Claude Code, ma własne repozytorium:
+[szymonkomorowski20-design/game-builder](https://github.com/szymonkomorowski20-design/game-builder), razem z
+[instrukcją obsługi](https://github.com/szymonkomorowski20-design/game-builder/blob/main/docs/INSTRUKCJA.md).
 
-**[Instrukcja obsługi game-buildera](game-builder/INSTRUKCJA.md)** opisuje plugin do Claude Code, który
-prowadzi grę od pomysłu przez plan do grywalnych wersji. Każdą wersję sprawdza silnik, a oceniasz ją Ty. Plugin
-korzysta z tej biblioteki: wyszukuje w niej wiedzę i darmowe assety, a do każdego szablonu gry ma gotowe paczki
-startowe.
-- Kod pluginu: [szymonkomorowski20-design/game-builder](https://github.com/szymonkomorowski20-design/game-builder)
-- Pierwsza gra zrobiona pluginem: *Lodowy Loch*, łamigłówka o ślizganiu po lodzie w 10 piętrach (repozytorium
-  prywatne)
+## Wiedza przekrojowa
+
+**[Otwórz folder wiedzy](wiedza/README.md)** z dokumentami spoza fal:
+- teoria projektowania gier;
+- platformy (web, itch.io, Android);
+- import grafiki i dźwięku do Godota 4.7;
+- paczki startowe z tej biblioteki dobrane do szablonów gier;
+- 17 otwartych gier w Godocie 4 do nauki.
+
+Plugin czyta je komendą `gb doc <nazwa>`.
+
+**Licencje:** własne teksty są na [CC BY 4.0](LICENSE.md). Paczki i wyciągi kodu innych autorów zachowują ich
+licencje, zapisane przy nich.
 
 ## Najnowsza aktualizacja — fala 05
 
