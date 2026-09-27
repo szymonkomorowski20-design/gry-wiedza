@@ -1,5 +1,15 @@
 # Gry — biblioteka zasobów i wiedzy
 
+## game-builder — bot do tworzenia gier w Godocie
+
+**[Instrukcja obsługi game-buildera](game-builder/INSTRUKCJA.md)** opisuje plugin do Claude Code, który
+prowadzi grę od pomysłu przez plan do grywalnych wersji. Każdą wersję sprawdza silnik, a oceniasz ją Ty. Plugin
+korzysta z tej biblioteki: wyszukuje w niej wiedzę i darmowe assety, a do każdego szablonu gry ma gotowe paczki
+startowe.
+- Kod pluginu: [szymonkomorowski20-design/game-builder](https://github.com/szymonkomorowski20-design/game-builder)
+- Pierwsza gra zrobiona pluginem: *Lodowy Loch*, łamigłówka o ślizganiu po lodzie w 10 piętrach (repozytorium
+  prywatne)
+
 ## Najnowsza aktualizacja — fala 05
 
 **[Otwórz piątą falę](fala-05/README.md)**: dźwięk, muzyka i audio w grach. Zawiera:
