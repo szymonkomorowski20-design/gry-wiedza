@@ -14,13 +14,15 @@ Plugin pobiera je komendą `gb doc <nazwa>` z lokalnej kopii tego repozytorium.
 | [genre-action-roguelite.md](genre-action-roguelite.md) | `genre-action-roguelite` | Gatunek jak Hades (akcja z góry, roguelite): walka, wrogowie, różnorodność buildów, struktura runu, postęp między runami, bossowie, wprowadzenie gracza, pułapki. Zasady ze źródłami, powiązane z przepisami game-buildera 47–52 |
 | [genre-rts.md](genre-rts.md) | `genre-rts` | Gatunek jak Warcraft / StarCraft / Age of Empires (RTS): sterowanie i zaznaczanie, ekonomia i nasycenie złóż, budowanie i produkcja, walka i kontry, ruch grup, mgła wojny, AI przeciwnika (fale, uczciwa trudność), misje, czytelność, pułapki. 88 faktów z 47 źródeł, powiązane z przepisami 58–65 |
 | [genre-military-fps.md](genre-military-fps.md) | `genre-military-fps` | Gatunek jak Call of Duty (kampania FPS): odczucie broni, AI z osłonami, zdrowie z regeneracją, poziomy i starcia („problem drzwi”), wspomaganie celowania i FOV, czytelność, pułapki. 87 faktów z 47 źródeł, powiązane z przepisami 53–57; osobna lista rzeczy, których nie udało się ustalić |
+| [genre-stealth-parkour.md](genre-stealth-parkour.md) | `genre-stealth-parkour` | Gatunek jak Assassin's Creed (skradanie i parkour w mieście, z trzeciej osoby): wspinaczka i krawędzie, kamera, wzrok i słuch strażników, poszukiwania, tłum i kryjówki, rozgłos, dzielnica, punkty widokowe i kontrakty, walka z kontrami, czytelność, pułapki. 173 fakty z pięciu badań, powiązane z przepisami 66–73; żadna gra nie publikuje kątów stożków ani czasów wykrycia, więc liczby w przepisach to wartości startowe |
 
 Stan: 28 września 2026. `platforms.md` i `asset-pipeline.md` sprawdził niezależny agent, porównując je z
 dokumentacją Godota 4.7 i stronami itch.io, a znalezione błędy poprawiono.
 
 ## Licencje
 - **Teksty w tym folderze:** CC BY 4.0 (zob. [LICENSE.md](../LICENSE.md)).
-- **Fakty z dokumentacji Godota** (w `platforms.md` i `asset-pipeline.md`) są streszczone i przeformułowane.
+- **Fakty z dokumentacji Godota** (w `platforms.md`, `asset-pipeline.md` i dokumentach gatunków) są streszczone i
+  przeformułowane.
   Źródło: © Juan Linietsky, Ariel Manzur i społeczność Godota, licencja
   [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 - Nazwy produktów, gier i paczek należą do ich właścicieli. Licencje gier i paczek, o których piszemy, są podane
