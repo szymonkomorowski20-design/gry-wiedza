@@ -22,8 +22,8 @@ are free to use; expression isn't.
 - **[analysis]**: design journalism or criticism;
 - **[wiki]**: community-documented numbers, not verified against code;
 - **[community]**: forum or guide consensus, the lowest confidence;
-- **[measured]**: measured by game-builder's own bot scenarios (its FPS template, 2026). It is one game and one bot,
-  so it shows a mechanism, not a universal number.
+- **[measured]**: measured by game-builder's own bot scenarios (its FPS template and the proof game "Operacja Pył",
+  2026, §8). It is one game and one bot, so it shows a mechanism, not a universal number.
 
 The claims come from a researched list of 87 facts from 47 sources (2026-09-28); the main ones are in Sources.
 Numbers are ranges to start from; the playtest decides. Where no reliable number exists, this document says so
@@ -226,6 +226,34 @@ bursts of action. The player is never long without a new small event, and never 
 - **The door problem** (§4).
 - **Everyone shooting at once** (§2, tokens).
 
+## 8. Measured in a whole campaign [measured]
+game-builder's proof game "Operacja Pył" (2026-09-28): three missions on the Moon, built autonomously on the
+`military-fps-3d` template. A careful bot plays them (a human reaction time, a settling aim error, short bursts,
+cover when hurt). One game and one bot, so these show mechanisms, not universal numbers.
+
+- **Fair spawns need points for every place a zone can start.** With spawns 12–45 m away, ahead and hidden, an
+  escape's reinforcements never came: their points were 46–55 m from the console where the escape begins. Points near
+  the far end of a level are not enough for a zone that starts there.
+- **A long mission empties the rifle.** 180 rounds ran out during a 60 s defence from two sides; the bot stood
+  empty-handed with 20 s left. The genre's answer worked: fallen soldiers drop a small pack (+20 rifle / +8 pistol,
+  reserves capped at twice the start) and checkpoints top up.
+- **Mission shapes and what they cost** (the bot, normal difficulty):
+
+  | Mission | Soldiers | Bot time | Bot deaths |
+  |---|---|---|---|
+  | two arenas, a hold, reinforcements | 12 | 79 s | 0 |
+  | a yard, two charges, a 60 s defence from two sides | 34–36 | ~150 s | 0–1 |
+  | a yard, a hall with an armoured heavy, a 4 s hold, a 90 s escape | 16 | 106 s | 0 |
+
+  The two-sided defence is the densest fight (about 20 soldiers in 60 s). The escape left the bot 57 of its 90 s.
+- **Difficulty as enemy accuracy only** (× 0.7 / 1.0 / 1.3, timing and behaviour unchanged) moved the bot's deaths
+  little (0 on the easy level; at most 1 on hard). Accuracy is a gentle knob; a person feels it more than a bot.
+- **A bot that wins proves a floor, not a ceiling.** The bot still won with 5 soldiers firing at once instead of 2,
+  and with a first wave of 7 instead of 3. Pin the numbers that make a fight fair (the fire limit, the lethality
+  contract) in unit tests; a completion test cannot see a mission getting too hard.
+- **Per-shot effects cost more than they look.** A new mesh and material for every tracer made the worst physics
+  step of each second ~8 ms in the heaviest fight, while the average frame stayed at 2 ms. Shared ones: 1.7 ms.
+
 ## Principles → game-builder parts
 | Principle | Where it lives |
 |---|---|
@@ -241,7 +269,7 @@ bursts of action. The player is never long without a new small event, and never 
 | Screen shake on firing and hits | recipe 03 |
 
 A whole mission built from these parts, with a bot that completes it: the `military-fps-3d` template (game-builder
-0.25.0).
+0.25.0). A three-mission campaign with menus, settings and saves on top of it: the proof game in §8.
 
 ## Not established
 The research looked for these and found no reliable open source. Don't quote numbers for them; tune in playtests.

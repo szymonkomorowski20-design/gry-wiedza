@@ -100,7 +100,13 @@ The library has no rigged soldier and no firearm model. Three honest routes:
 | Surfaces | ambientCG Metal001, Concrete001, Ground001 | `assety/fala-02/ambientcg-<Name>` | https://ambientcg.com/view?id=<Name> | |
 | Guns, hits, grenades, lander | sci-fi-sounds | `assety/fala-02/kenney-sci-fi-sounds` | https://kenney.nl/assets/sci-fi-sounds | `laserSmall_*` (rifle), `laserLarge_*` (heavy / pistol), `explosionCrunch_*` (grenades), `impactMetal_*` (armour hits), `forceField_*` (shields), `thrusterFire_*` / `spaceEngine*` (lander), `computerNoise_*` (radio) |
 | Hits on bodies and walls | impact-sounds | `assety/fala-01/impact-sounds` | https://kenney.nl/assets/impact-sounds | |
-| Alarm, low-health heartbeat | mrbid Sound-Effects (**Unlicense**) | `<BAZA-AI>/fala-04/zrodla/mrbid--Sound-Effects` | https://github.com/mrbid/Sound-Effects | `distantsiren`, `alert*`, `heartdrum` |
+| Alarm, low-health heartbeat | mrbid Sound-Effects (**Unlicense**) | `<BAZA-AI>/fala-04/zrodla/mrbid--Sound-Effects` | https://github.com/mrbid/Sound-Effects | `distantsiren`, `alert*`, `heartdrum`; **fix the WAV headers first** (below) |
+
+**mrbid WAVs (measured).** 62 of the pack's 63 WAVs declare a RIFF size 2–8 bytes larger than the file, and a few
+(e.g. `heartdrum`) also a data chunk that runs past the end. Godot 4.7 refuses the second kind on the first import, so
+the game fails on every fresh clone while a warm import cache hides it. game-builder's `gb lint` reports both
+(`wav-header`, from 0.26.0). Fix: pad the file with zero bytes to the declared length, or correct the RIFF size field
+when only that is wrong, and say so in the licence register.
 
 ## For every game
 | Need | Pack | Local | Author page | Notes |
