@@ -12,8 +12,9 @@ Plugin pobiera je komendą `gb doc <nazwa>` z lokalnej kopii tego repozytorium.
 | [starter-packs.md](starter-packs.md) | `starter-packs` | Paczki z tej biblioteki dobrane do szablonów gier, ze stronami autorów do rejestru licencji i znanymi lukami |
 | [reference-games.md](reference-games.md) | `reference-games` | 17 otwartych gier w Godocie 4, z licencjami kodu i assetów sprawdzonymi w ich repozytoriach |
 | [genre-action-roguelite.md](genre-action-roguelite.md) | `genre-action-roguelite` | Gatunek jak Hades (akcja z góry, roguelite): walka, wrogowie, różnorodność buildów, struktura runu, postęp między runami, bossowie, wprowadzenie gracza, pułapki. Zasady ze źródłami, powiązane z przepisami game-buildera 47–52 |
+| [genre-military-fps.md](genre-military-fps.md) | `genre-military-fps` | Gatunek jak Call of Duty (kampania FPS): odczucie broni, AI z osłonami, zdrowie z regeneracją, poziomy i starcia („problem drzwi”), wspomaganie celowania i FOV, czytelność, pułapki. 87 faktów z 47 źródeł, powiązane z przepisami 53–57; osobna lista rzeczy, których nie udało się ustalić |
 
-Stan: 27 września 2026. `platforms.md` i `asset-pipeline.md` sprawdził niezależny agent, porównując je z
+Stan: 28 września 2026. `platforms.md` i `asset-pipeline.md` sprawdził niezależny agent, porównując je z
 dokumentacją Godota 4.7 i stronami itch.io, a znalezione błędy poprawiono.
 
 ## Licencje
