@@ -197,6 +197,38 @@ lost to a rush in two or three minutes feels like a dice roll [analysis].
 - **Unreadable fights:** units that look alike, no hit feedback, no alert when the base is attacked.
 - **Cheating AI with no counterplay** (§7).
 
+## 11. Measured in a skirmish [measured]
+game-builder's `rts-3d` template (2026-09-28): one skirmish against the computer on a mirrored 72 m map, with
+workers, gold and wood, farms, barracks and a stable, and footmen, archers and riders. A bot plays the player's side
+with a counter-minded build order. One template and one bot, so these show mechanisms, not universal numbers.
+
+- **A counter carried only by range fades as armies grow.** In the engine, 4 archers lost to 4 footmen of equal cost
+  with arrows at × 1.75 against heavy armour, and won at × 2.0. A balance sheet (equal budgets, focus fire, the ranged
+  side shooting alone while the melee closes the gap) showed × 2.0 was still not enough: archers won at 420 gold and
+  lost at 720 and 1260. At 11 damage instead of 10 they keep 40–70% of their budget at every size, and in the engine
+  2–4 of 4 archers are left. Riders against archers (0.89–1.0 kept) and
+  footmen against riders (0.86–0.93) won by much more; an even triangle needs its own tuning pass.
+- **A bonus must name a tag the target carries.** "+6 against light" never applied, because "light" was an armour
+  type, not a tag. Test that each counter's bonus matches its prey.
+- **The computer's failure modes** (each found by watching a bot game):
+  - it never attacked, because its wave size had grown past its largest possible army;
+  - it built farms at the supply ceiling;
+  - its wave stood idle after winning a fight, because only idle units took new orders, so the attack has to be
+    given again on every think;
+  - it built a second barracks before the first was finished, because a step waiting for its requirement was skipped.
+- **Workers:** a worker waiting at a full tree waited forever. Moving on after twice the gather time fixed it. Workers
+  sent to the centre of a mine walked around to its far side, because the path ends at the nearest walkable point.
+  Send them to the near side.
+- **Speed with about 86 units in GDScript:** units without a target that looked for one every frame cost n² a frame.
+  A look every 0.25 s, staggered per unit, fixed it. A fog of 1 m cells cost 3.2 ms an update; 2 m cells cost 1.1 ms.
+  After both, the worst physics frame of each second was 8.9 ms at worst in a 40-against-40 battle, with a 1.5 ms
+  average frame.
+- **Group moves:** twelve footmen going around a rock's corner jammed there. A rule that stopped a unit after 4 s
+  without progress left one 15 m from its place in the formation. Asking for a fresh path up to three times before
+  stopping fixed it (6 of 6 runs).
+- **Pace:** the computer's first wave reached the player's base by 3 minutes (normal difficulty). The bot beat it in
+  6–16 simulated minutes; the long games were the ones where both sides ran short of gold.
+
 ## Principles → game-builder parts
 | Principle | Where it lives |
 |---|---|

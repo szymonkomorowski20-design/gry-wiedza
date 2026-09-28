@@ -108,6 +108,22 @@ the game fails on every fresh clone while a warm import cache hides it. game-bui
 (`wav-header`, from 0.26.0). Fix: pad the file with zero bytes to the declared length, or correct the RIFF size field
 when only that is wrong, and say so in the licence register.
 
+### `rts-3d` — **gap: no horses**
+The library has no horse and no mounted character, so the template's rider has no model. Three honest routes:
+- **A fast unit on foot** (the Barbarian as a charger): keep the counter triangle, rename the `mounted` tag.
+- **A mount from primitives** under a KayKit rider, in the same flat-shaded style.
+- **Download** a CC0 horse (e.g. from Quaternius' animal packs), with the owner's consent, then add it here.
+
+| Need | Pack | Local | Author page | Notes |
+|---|---|---|---|---|
+| Buildings in four team colours | kaykit-medieval-hexagon-pack | `assety/fala-03/kaykit-medieval-hexagon-pack-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0 | glTF, each in `_blue`, `_green`, `_red`, `_yellow`: `building_castle` (town hall), `building_home_A` / `_B` (farm), `building_barracks`, `building_archeryrange`, `building_lumbermill`, `building_mine` (a gold mine), `building_tower_*`; `building_scaffolding` and `building_stage_A`–`C` (a site going up), `building_destroyed` (rubble), `flag_*` |
+| Map: trees, rocks, hills, walls | the same pack | as above | as above | `trees_A_large` / `_medium`, `tree_single_A` and its `_cut` stump, `rock_single_A`–`E`, `mountain_*`, `hills_*`, `fence_*`, `wall_*`, `resource_lumber`, `resource_stone`, `sack`, `crate_*`. The `hex_*` tiles suit a hex map, not the template's flat ground |
+| The player's units | kaykit-character-pack-adventures | `assety/fala-03/kaykit-character-pack-adventures-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0 | 5 rigged `.glb` with 76 animations each (measured): Knight (footman: `sword_1handed` + a shield), Rogue (archer: `crossbow_2handed`), Barbarian, Mage, Rogue_Hooded (a worker) |
+| A second faction | kaykit-character-pack-skeletons | `assety/fala-03/kaykit-character-pack-skeletons-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0 | 4 rigged `.glb` (Minion, Warrior, Rogue, Mage) with 95 animations each (measured), and their own `Skeleton_Crossbow`, `Skeleton_Blade`, `Skeleton_Axe`, shields and arrows |
+| Chopping, coins, footsteps | rpg-audio | `assety/fala-02/kenney-rpg-audio` | https://kenney.nl/assets/rpg-audio | `chop*` (wood), `handleCoins*` (gold delivered), `footstep*`, `metalClick*`, `drawKnife*` |
+| Hits | impact-sounds | `assety/fala-01/impact-sounds` | https://kenney.nl/assets/impact-sounds | |
+| Orders, alerts, the build card | interface-sounds | `assety/fala-01/interface-sounds` | https://kenney.nl/assets/interface-sounds | `select_*` (a selection), `confirmation_*` (an order), `error_*` (a refused placement), `bong_*` (under attack) |
+
 ## For every game
 | Need | Pack | Local | Author page | Notes |
 |---|---|---|---|---|
