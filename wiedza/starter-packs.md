@@ -86,6 +86,22 @@ human's go. Until then, use code-drawn shapes or the prototype sprites, marked a
 | Level kits | kaykit-dungeon-remastered, kaykit-space-base-bits | `assety/fala-03/…-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0, …/KayKit-Space-Base-Bits-1.0 | glTF |
 | Shots, impacts | sci-fi-sounds, impact-sounds; mrbid sound effects (**Unlicense**) | `assety/fala-02/kenney-sci-fi-sounds`, `assety/fala-01/impact-sounds`, `<BAZA-AI>/fala-04/zrodla/mrbid--Sound-Effects` | https://kenney.nl/assets/sci-fi-sounds, …/impact-sounds, https://github.com/mrbid/Sound-Effects | |
 
+### `military-fps-3d` — **gap: no soldiers or firearms in the library**
+The library has no rigged soldier and no firearm model. Three honest routes:
+- **Primitives in one style.** Armour plates, a helmet and a glowing visor (enemies red), guns from boxes with
+  emissive strips. This matches the template's placeholders and ships today.
+- **A sci-fi setting**, so the library's energy-weapon sounds fit (below).
+- **Download** a CC0 character or weapon pack (e.g. Quaternius or Kenney's blaster kit), with the owner's consent, then
+  add it here. A paid generator (meshy) is also possible, on the owner's "tak" per batch.
+
+| Need | Pack | Local | Author page | Notes |
+|---|---|---|---|---|
+| Outpost, cover, extraction | kaykit-space-base-bits | `assety/fala-03/kaykit-space-base-bits-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0 | glTF: base modules, cargo and containers (cover), landers, landing pads, rocks, terrain, tunnels, trucks |
+| Surfaces | ambientCG Metal001, Concrete001, Ground001 | `assety/fala-02/ambientcg-<Name>` | https://ambientcg.com/view?id=<Name> | |
+| Guns, hits, grenades, lander | sci-fi-sounds | `assety/fala-02/kenney-sci-fi-sounds` | https://kenney.nl/assets/sci-fi-sounds | `laserSmall_*` (rifle), `laserLarge_*` (heavy / pistol), `explosionCrunch_*` (grenades), `impactMetal_*` (armour hits), `forceField_*` (shields), `thrusterFire_*` / `spaceEngine*` (lander), `computerNoise_*` (radio) |
+| Hits on bodies and walls | impact-sounds | `assety/fala-01/impact-sounds` | https://kenney.nl/assets/impact-sounds | |
+| Alarm, low-health heartbeat | mrbid Sound-Effects (**Unlicense**) | `<BAZA-AI>/fala-04/zrodla/mrbid--Sound-Effects` | https://github.com/mrbid/Sound-Effects | `distantsiren`, `alert*`, `heartdrum` |
+
 ## For every game
 | Need | Pack | Local | Author page | Notes |
 |---|---|---|---|---|

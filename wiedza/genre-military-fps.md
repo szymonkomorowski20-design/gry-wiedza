@@ -22,8 +22,8 @@ are free to use; expression isn't.
 - **[analysis]**: design journalism or criticism;
 - **[wiki]**: community-documented numbers, not verified against code;
 - **[community]**: forum or guide consensus, the lowest confidence;
-- **[measured]**: measured by game-builder's own bot scenarios in a proof game. It is one game and one bot, so it
-  shows a mechanism, not a universal number.
+- **[measured]**: measured by game-builder's own bot scenarios (its FPS template, 2026). It is one game and one bot,
+  so it shows a mechanism, not a universal number.
 
 The claims come from a researched list of 87 facts from 47 sources (2026-09-28); the main ones are in Sources.
 Numbers are ranges to start from; the playtest decides. Where no reliable number exists, this document says so
@@ -110,6 +110,14 @@ bursts of action. The player is never long without a new small event, and never 
 - **Limit simultaneous attackers.** DOOM (2016) changed demons from charging the player to holding position, and
   limited how many fight in melee at once, so the player faces one at a time rather than drowning in a crowd [dev].
   The equivalent for gunfire: at most 2–3 soldiers peek and fire at once (recipe 57 + 49 tokens).
+- **Enemies should be there first.** Measured in game-builder's FPS template [measured]:
+  - a first wave that spawned out of sight and ran 10+ m across open ground to its cover died before it fired; a whole
+    mission produced 21 enemy shots, so the fights were target practice;
+  - starting the first wave already crouched at cover hidden from the player ("dug in"), with later waves running in
+    as reinforcements, gave real firefights (~75 enemy shots, the bot taking cover when hurt) at the same numbers.
+- **Suppress on near misses, not only impacts** [measured, same template]: counting only where a bullet lands
+  missed shots that passed close by and hit the wall behind. Measure the distance from the soldier to the bullet's
+  path.
 - **Mix archetypes:** patroller, flanker, rusher, turret, support, ambusher. Each puts a different pressure on the
   player; combining them forces changing tactics [analysis].
 - **Difficulty levers:** AI accuracy, aggression, and the number and weapons of enemies [analysis]. Recipe 57 puts
@@ -231,6 +239,9 @@ bursts of action. The player is never long without a new small event, and never 
 | Checkpoints | recipe 41 |
 | Mission objectives the player always knows | recipe 19 (quests) |
 | Screen shake on firing and hits | recipe 03 |
+
+A whole mission built from these parts, with a bot that completes it: the `military-fps-3d` template (game-builder
+0.25.0).
 
 ## Not established
 The research looked for these and found no reliable open source. Don't quote numbers for them; tune in playtests.
