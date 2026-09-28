@@ -229,6 +229,44 @@ with a counter-minded build order. One template and one bot, so these show mecha
 - **Pace:** the computer's first wave reached the player's base by 3 minutes (normal difficulty). The bot beat it in
   6–16 simulated minutes; the long games were the ones where both sides ran short of gold.
 
+## 12. Measured in a proof game [measured]
+game-builder's proof RTS "Kamienna Marchia" (2026-09-28, built on `rts-3d`): two mirrored factions, three missions and
+a skirmish, a bot playing the player's side. One game and one bot, so these show mechanisms, not universal numbers.
+
+- **Difficulty as income alone buys nothing when the computer is bound elsewhere.**
+  - At 6 minutes, easy (income × 0.8) and normal (× 1.0) fielded the same army; hard (× 1.3) had 5000 gold unspent.
+  - Its limits were production and food: one farm at a time, and a barracks idle for 90 s while its build order
+    waited for a stable. Once farms kept up, the game's food ceiling capped normal and hard alike.
+  - What worked: farms ahead of the army (a margin that grows per barracks, more farms at once when rich), production
+    that never idles, and two more named knobs per difficulty — production buildings (2 / 3 / 4) and the army's food
+    ceiling (70 / 85 / 100). The army at 6 minutes then ran about 2560 / 3300 / 3930, on four seeds.
+- **What counts as a "threat" decides fights nobody ordered.** Both sides placed buildings toward each other, so an
+  army idling at its own rally was "near" the other side's farthest farm, and the other side's whole army went at it,
+  next to the enemy base. Counting only enemies on our half of the map took the bot from 2 of 4 wins in the third
+  mission to 14 of 15.
+- **Measure army habits; don't argue them from one lost game.** A front line of footmen (a third of the army) and
+  calling defenders back from the enemy's half each looked right in one replay. Together they lowered the bot's wins
+  from 12 of 14 to 6 of 9: the enemy fielded mostly footmen, whose counter is the ranged unit.
+- **One seed is not a proof.** A bot that won on the test harness's seed lost the same mission on half of the others.
+  Every claim about a bot game is checked on 4–14 seeds, and each test seeds its own game.
+- **Deterministic tests against a fast battle.**
+  - Bot games repeated exactly only with the navigation server's avoidance on one thread.
+  - With it, a 40-against-40 battle's worst physics frame per second once reached 17.9 ms p95 (budget 10); other
+    runs stayed within the budget, so the number moves with the machine's load. Measure more than once.
+  - Threaded avoidance gives headroom, but runs differed (one bot game ended at 400, 394 and 449 s).
+  - A Godot feature override gives both: threads on in exported builds only (`.template`), off in the editor and
+    the tests.
+- **A camp leash needs the alarm to respect it.** Guards sent home by a leash were sent out again by the next hit on
+  any guard, so ranged units parked past the leash cleared a camp without losses. The fix: a leashed guard walks home
+  deaf to alarms and forgets its attacker, and an attacker past the leash raises no alarm.
+- **Attack-move units must answer attackers.** Melee units attack-moving into a camp stood at a tower's wall hitting
+  it, while archers behind the tower shot them from beyond their acquire range. The fix: a unit with no unit to
+  fight, or one hitting a building, turns on a seen attacker.
+- **Routes between objectives matter.** A mission's best order on paper passed a third camp within its alarm range,
+  and the bot lost its army there. The order is now chosen from routes found on the navigation mesh.
+- **The first-wave floor holds:** with a 4-minute floor and a cap at the difficulty's wave size, first waves left at
+  240–245 s with 4–8 units, on every difficulty and in both the mission and the skirmish.
+
 ## Principles → game-builder parts
 | Principle | Where it lives |
 |---|---|
