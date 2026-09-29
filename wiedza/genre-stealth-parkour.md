@@ -625,6 +625,31 @@ the stealth loop [dev]. Assassin's Creed Origins dropped detection and leaving a
   - fleeing forever [dev].
 - **Fall damage as an invisible wall** [analysis].
 
+## 14. Measured in a district [measured]
+game-builder's `stealth-parkour-3d` template (2026-09-29) is one 70 m greybox district:
+- houses with lipped faces and 2 m alleys, a 15 m viewpoint tower over hay;
+- five guards and fourteen townspeople;
+- one assassination contract.
+
+A bot plays it through the real input actions. One template and one bot, so these show mechanisms, not universal
+numbers.
+- **The contract is a window, not a route.** The bot finished it unseen by waiting, hidden in hay, until the target
+  stood at its quiet stop and both patrols were over 14 m away. The target's 90 s loop gave that window about once a
+  loop; its 10 s wait at the quiet stop was what made the strike possible. Routines are level design.
+- **Holds need to be usable, not only found.** From a roof under a taller wall, the lowest hold in reach was a lip at
+  knee height: too low to stand on, too low to hang from. The grab failed until the climber learned to look above such
+  holds.
+- **A body stopped dead at a corner.** Godot stops a character pushing within 15° of a wall's normal instead of
+  sliding it along. Both players and bots feel this at crates and hay piles.
+- **Honest guards need the sighting's own position.** Guards look ten times a second. Read with the player's live
+  position, a sighting recorded where the player went a moment later. The position must come from the look itself.
+- **Unreachable places end searches.** A player seen standing on a stall left a last seen place off the navigation
+  mesh. The guard never arrived there, and so never searched. "Arrived" has to mean "as close as the paths allow".
+- **Radii reveal by the metre.** A viewpoint's 40 m sync revealed a poster 39.99 m away. Test what a sync reveals.
+- **Cost:** with every guard hunting and the crowd panicking, the worst frame of each second measured 5.5 ms (process,
+  p95) and 0.65 ms (physics, p95) over 120 s. The five guards' scripts took about 0.14 ms a frame. A 60 s run measured
+  the scene's start instead (89 ms p95): measure long enough.
+
 ## Principles → game-builder parts
 | Principle | Where it lives |
 |---|---|

@@ -124,6 +124,30 @@ The library has no horse and no mounted character, so the template's rider has n
 | Hits | impact-sounds | `assety/fala-01/impact-sounds` | https://kenney.nl/assets/impact-sounds | |
 | Orders, alerts, the build card | interface-sounds | `assety/fala-01/interface-sounds` | https://kenney.nl/assets/interface-sounds | `select_*` (a selection), `confirmation_*` (an order), `error_*` (a refused placement), `bong_*` (under attack) |
 
+### `stealth-parkour-3d` — **gap: no historical townspeople**
+The only humans in the library that climb are Mesh2Motion's: a neutral mannequin and 178 animation clips on one
+66-joint skeleton, including climbing a wall, a ledge hang, climbing up, a pipe and a ladder, sneaking, sprinting,
+rolling, sword attacks, blocks, dodges, hits, deaths, sitting and talking (measured in the GLBs). Every variant has
+the same 66 joints, but under a differently named armature node (`Armature_18_M`, `Armature_Killer_4`…), so the clips'
+track paths only fit after renaming that node on import or through Godot's retargeting (a `BoneMap`). The variants
+that are CC0 wear modern clothes or horror costumes, so for a historical city there are three honest routes:
+- **The mannequin in role colours:** the player in white with a sash, guards in red with a helmet and a spear made of
+  primitives, the target in gold, townspeople in muted colours. This is readable, and the template's greybox look.
+- **The mannequin with primitive props** attached to its bones (hoods, hats, cloaks) with `BoneAttachment3D`.
+- **Download** a CC0 set of historical characters (e.g. Quaternius' packs), with the owner's consent, retarget them
+  onto the same skeleton, then add them here.
+
+| Need | Pack | Local | Author page | Notes |
+|---|---|---|---|---|
+| The player, guards, townspeople (mannequin) | Mesh2Motion | `fala-04/zrodla/Mesh2Motion--mesh2motion-app/static/animations/human-base-animations.glb` | https://mesh2motion.org | CC0 (`LICENSE-CC0.MD`: all models, rigs, animations); the rigged neutral mannequin comes with the clips (`static/models/model-human.glb` is the same mesh without a rig) |
+| Climbing, sneaking, fighting | Mesh2Motion | `…/static/animations/human-base-animations.glb` (87 clips), `human-addon-animations.glb` (75), `human-mocap-animations.glb` (16) | as above | each GLB is the rigged mannequin with its clips, all three under the same `Armature` node; merge the clips into one AnimationLibrary |
+| Variants | Mesh2Motion | `…/static/models-variation/human/*.glb` | as above | CC0 per the app's own list (`src/lib/RigModelVariations.ts`): male (Quaternius), zombie (Kenney), female, female_8/9/31, male_5/6/10/15/32, doctor_m, swat_male, police_male/female, hazmat_*, killer_4/5, monster*. **Not CC0:** sintel, jay, bunny (CC-BY, Blender Studio), sophia (CC-BY-SA), killer_6/7 (CC-BY, no author named) — leave them out |
+| Market stalls, carts, barrels, lamps | Polygonal Mind medieval-fair | `fala-04/zrodla/ToxSam--cc0-models-Polygonal-Mind/projects/medieval-fair` | https://github.com/ToxSam/cc0-models-Polygonal-Mind | CC0 (`License.md`): `Booth_Food01/02`, `Booth_Wearables`, `Cart`, `Barrel`, `SmallBarrel_Art`, `Lamp`, `SignPost`, `Fair_Flags_Line`; skip `Coin_PolygonalMind` (the studio's logo) |
+| Buildings, walls, a tower (low-poly) | kaykit-medieval-hexagon-pack | `assety/fala-03/kaykit-medieval-hexagon-pack-1.0` | https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0 | as for `rts-3d`; mind the climbing: a model's walls need the lips (or other holds) the ledge probe reads — keep the template's greybox blocks as the collision and put the models on top |
+| Steps, blades, the crowd | rpg-audio, impact-sounds | `assety/fala-02/kenney-rpg-audio`, `assety/fala-01/impact-sounds` | https://kenney.nl/assets/rpg-audio | `footstep*` by profile, `drawKnife*`, `metalClick*`; no crowd murmur in the library (a gap) |
+
+KayKit's characters have 76–95 clips but no climbing, so they don't suit this template.
+
 ## For every game
 | Need | Pack | Local | Author page | Notes |
 |---|---|---|---|---|
